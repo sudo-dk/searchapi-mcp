@@ -1,0 +1,83 @@
+{
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "OpenAI",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "OpenAI",
+    "total_results": 9800000,
+    "time_taken_displayed": 0.28,
+    "detected_location": "Hong Kong",
+    "has_no_results_for": false
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures",
+      "link": "https://www.google.com/goto?url=CAESsAEBxCJF19xSJrwTsjoobCOL9QhuVPIR0REugDPl_CdwIbVqyoaZgwjhAtw3xCs8F3OfvJq8g4mfIaer0VRCW7P0Nv6MzYuoonSowu94QnAFFcPLPkzkJfxZ0mj8GaQ-Wr0DMQIYGjMvH_fn6DBmU1dG_Y2hNl7NildktBZrk7RjqqM3Bg_zjHpVSTpYvCS4HqXK1FAHhZUDUxQJz97GVPfKv-YKqnj3GRBOrL6JBXx8qw&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "EhlxfCtxpyr9dJFLI1HhzAg8rYp4waVyPEqXQrUK85Px08BrRkkMQeDZMlG2TNh7bU2cJ4Bu70_GKbcv5e0EDswhxeH2z2SK5rNakIVFLn5yCA9i0rYwxk0b",
+      "source": "Bloomberg.com",
+      "date": "13 hours ago",
+      "iso_date": "2026-11-12T21:35:58Z",
+      "snippet": "OpenAI is backing a bipartisan effort in Congress to block China's access to artificial intelligence chips and curb China's access to...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 2,
+      "title": "Cerebras Stock: Earnings Beat and New Microsoft Partnership",
+      "link": "https://www.google.com/goto?url=CAEShAEBxCJF13G7Zk_cNJploMgKTBSyY4OIj3XUeDKpqa5rMn_NbLyZKkjqmh9DldWwemq0I40NdKNMWIQI3JuO34LBEt8zh_uwoAaIifVDOmpNXNnKB7W-w3Wu_FoQM4zMzfyVJOp7cLzGReroj1Uiy0-aSzy0KftK9msVzEef1rREz7EsK9E&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "o1yp8oQnyiYjbl5jw8qG-wlcV0m1E1fVzkttevrvDH-hvNiSMRmJSPfTx52BuJm0N4Zl281f9s33BOQyxTIdTEYzjSZCzb5axPi9oZ-3Pc9yF0-kLgb0seAl",
+      "source": "Barron's",
+      "date": "12 hours ago",
+      "iso_date": "2026-11-12T23:02:00Z",
+      "snippet": "Coming into earnings, the company had three challenges, two related to OpenAI. Advertisement - Scroll to Continue. At the end of the second...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "OpenAI raises $15B at a $1.25T valuation, sources say. What it means for the IPO",
+      "link": "https://www.google.com/goto?url=CAESrgEBxCJF1xFlQ8sSWgu_4YbpafcwhWj-J-nF434nnknIOLp0WRgMqfPwCW2IB1PJL78jtRWuqbSMQeBQoWRswuuPrMPfIhfXnwEu_rCelvGt_BBQrSkj67zMr1Saei90-2Oc-sSrHrstCm7A6UtKNH_2wAwh7z7WtT3Jpts7BfAeE2_mLhnoOBz8jnfDjTDPF12TMu96HRjPVcxA0i5eBYdn2546S93DKmwq0oJE3C0&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "Q-5BnRtNp4PDVor-qLGXPQqXSzR4H3MidyRDqmY-7gDVy8v66ArtVEr5N3zzY9VP9ZjlfstBfk7nPVgk1X1HBYbn8FmdUS_YWIqNaCOFlmodgMzh-t6OqwZK",
+      "source": "CNBC",
+      "date": "17 hours ago",
+      "iso_date": "2026-11-12T17:47:00Z",
+      "snippet": "CNBC's Kate Rooney reports on sources saying OpenAI raised $15 billion at a $1.25 trillion valuation, and the Investment Committee debates...",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development",
+      "link": "https://www.google.com/goto?url=CAEStwEBxCJF11ILT1HD8cxwEGyqnAxsWnqBVm7-ZjFL6zx7zUFww2TFiqP4tYjrahsOJ4_9M5QArgbJCYt1q6gnW2LlBZFkNn4IIpeFUbypn8qRu2IoxkjC5ZAeDhYfC95tUbiuNrqapkLvJrvDfKKCXhv_mgZvvvnEqdt-dWV0y-OeItZ2t3thYCcaKgryT4lwqaYXSTVYnO9sCBdxwd7K4MVorVOotp0gsAqk4fdjzSh-JzfWcb7L4kg&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "zmfAQUBTlreB01Drk1wUGIGCRr6Qj6iIMRtVqVgo-L3P_d31NOMP8nsA-6AUilCb_kpenxNqRf49BsWkO-ERRcwn44f4oatngiLledfDasx1yg1RxaH9Fac5",
+      "source": "Reuters",
+      "date": "14 hours ago",
+      "iso_date": "2026-11-12T20:35:49Z",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "title": "Anthropic, OpenAI sued for allegedly infringing inventors' neural network patents",
+      "link": "https://www.google.com/goto?url=CAEStgEBxCJF1xVTCXtnHIcf-u2HQ36RLVcqwallzru6AniLdANV-N7ZCKNgQ5crAL2CQG6d8iBUuqSk9RnCpzHTJgNENGTelZD1xQ8nfmjT_2GW6tlSCUfbBmco0buxKnRYkgf4fhFHCRRqTP4I3kJQePIJTUzS7zz9mz-9wh31NqB7jik-g0nYiEJZiMqi8TCyXf54k31Qf1LpWiLkyLSMQU7JlDK3XnXL2OoyAaoThZ7uM6V25BmluA&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "_W-AIq58LRO0-czQXjTF3JoL6pRKXszTZ4lEzArypUuea7M_kDaTqro3gBzWNIzhNvDnigiKAgxWk5-fU9PdrzIqf2DcsPUxpDmIXGofoGQK8ak00lVTq-x4",
+      "source": "Reuters",
+      "date": "14 hours ago",
+      "iso_date": "2026-11-12T20:26:15Z",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "title": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges",
+      "link": "https://www.google.com/goto?url=CAESewHEIkXXsBLkm_KVJxeozL_iFF6xjHcEosX7iTdu39_Z3ZGWH7pyRQjJzbC8fQCHMC_RVVpBwtVDqmhqFFnI2hLmtV1kqCVUPyOHySVdUJhIuj9fKpPS3fq9of5J1gpRyOq7dfEzEP3dISTYgxS9PjM4Tc1NZs8e6ovjDg&gsessionid=hC1wLbuwS3SreBSj9aLeoax_fWeuxZggNGLhA10MQnVX940NgEcEOA",
+      "link_token": "oWjlnqXAosiAEqhugeEhhnon7dNM4r9CELcIsFZC0P3zlQXZ02bEKTraMYwifOL7P6I59py5q-Zwcv53PthROSC8B2mShHFQYpeZmNGtjbXRrr73vxdTbnSV",
+      "source": "CBS News",
+      "date": "12 hours ago",
+      "iso_date": "2026-11-12T22:12:48Z",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ]
+}

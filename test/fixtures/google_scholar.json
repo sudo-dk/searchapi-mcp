@@ -1,0 +1,207 @@
+{
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "retrieval augmented generation",
+    "hl": "en"
+  },
+  "search_information": {
+    "query_displayed": "retrieval augmented generation",
+    "total_results": 1360000,
+    "page": 1,
+    "time_taken_displayed": 0.14
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Retrieval-augmented generation for knowledge-intensive nlp tasks",
+      "data_cid": "yZekOQyLNpQJ",
+      "link": "https://proceedings.neurips.cc/paper_files/paper/2020/hash/6b493230-Abstract.html",
+      "publication": "P Lewis, E Perez, A Piktus, F Petroni… - Advances in neural …, 2020 - proceedings.neurips.cc",
+      "snippet": "… generation models with a non-parametric memory through a general-purpose fine-tuning approach which we refer to as retrieval-augmented generation … both the generator and retriever …",
+      "inline_links": {
+        "cited_by": {
+          "cites_id": "10679876450978666441",
+          "total": 34653,
+          "link": "https://scholar.google.com/scholar?cites=10679876450978666441&as_sdt=5,31&sciodt=0,31&hl=en"
+        },
+        "versions": {
+          "cluster_id": "10679876450978666441",
+          "total": 24,
+          "link": "https://scholar.google.com/scholar?cluster=10679876450978666441&hl=en&as_sdt=0,31"
+        },
+        "related_articles_link": "https://scholar.google.com/scholar?q=related:yZekOQyLNpQJ:scholar.google.com/&scioq=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yZekOQyLNpQJ:scholar.google.com/+retrieval+augmented+generation&hl=en&as_sdt=0,31"
+      },
+      "resource": {
+        "name": "[PDF]",
+        "link": "https://scholar.google.comjavascript:void(0)"
+      },
+      "authors": [
+        {
+          "name": "P Lewis",
+          "id": "JN7Zg-kAAAAJ",
+          "link": "https://scholar.google.com/citations?user=JN7Zg-kAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "E Perez",
+          "id": "za0-taQAAAAJ",
+          "link": "https://scholar.google.com/citations?user=za0-taQAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "A Piktus",
+          "id": "bXvehs4AAAAJ",
+          "link": "https://scholar.google.com/citations?user=bXvehs4AAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "F Petroni",
+          "id": "vxQc2L4AAAAJ",
+          "link": "https://scholar.google.com/citations?user=vxQc2L4AAAAJ&hl=en&oi=sra"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Searching for best practices in retrieval-augmented generation",
+      "data_cid": "n-Dos_IElyIJ",
+      "link": "https://aclanthology.org/2024.emnlp-main.981/",
+      "publication": "X Wang, Z Wang, X Gao, F Zhang, Y Wu… - Proceedings of the …, 2024 - aclanthology.org",
+      "snippet": "… optimal practices for implementing retrieval-augmented generation in order to improve the … retrieval-augmented generation systems but also establish a foundation for future research. …",
+      "inline_links": {
+        "cited_by": {
+          "cites_id": "2492466359219839135",
+          "total": 451,
+          "link": "https://scholar.google.com/scholar?cites=2492466359219839135&as_sdt=5,31&sciodt=0,31&hl=en"
+        },
+        "versions": {
+          "cluster_id": "2492466359219839135",
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=2492466359219839135&hl=en&as_sdt=0,31"
+        },
+        "related_articles_link": "https://scholar.google.com/scholar?q=related:n-Dos_IElyIJ:scholar.google.com/&scioq=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:n-Dos_IElyIJ:scholar.google.com/+retrieval+augmented+generation&hl=en&as_sdt=0,31"
+      },
+      "resource": {
+        "name": "[PDF]",
+        "link": "https://scholar.google.comjavascript:void(0)"
+      },
+      "authors": [
+        {
+          "name": "X Wang",
+          "id": "XS6ke8YAAAAJ",
+          "link": "https://scholar.google.com/citations?user=XS6ke8YAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "Z Wang",
+          "id": "NRCHEpYAAAAJ",
+          "link": "https://scholar.google.com/citations?user=NRCHEpYAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "X Gao",
+          "id": "3X_3Ni0AAAAJ",
+          "link": "https://scholar.google.com/citations?user=3X_3Ni0AAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "F Zhang",
+          "id": "PvKb8doAAAAJ",
+          "link": "https://scholar.google.com/citations?user=PvKb8doAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "Y Wu",
+          "id": "4n5UVfUAAAAJ",
+          "link": "https://scholar.google.com/citations?user=4n5UVfUAAAAJ&hl=en&oi=sra"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Active retrieval augmented generation",
+      "data_cid": "mVAJ-wKiRCcJ",
+      "link": "https://aclanthology.org/2023.emnlp-main.495/",
+      "publication": "Z Jiang, FF Xu, L Gao, Z Sun, Q Liu… - Proceedings of the …, 2023 - aclanthology.org",
+      "snippet": "… gathering information throughout generation is essential. In … retrieval augmented generation, methods that actively decide when and what to retrieve across the course of the generation. …",
+      "inline_links": {
+        "cited_by": {
+          "cites_id": "2829564599580840089",
+          "total": 2024,
+          "link": "https://scholar.google.com/scholar?cites=2829564599580840089&as_sdt=5,31&sciodt=0,31&hl=en"
+        },
+        "versions": {
+          "cluster_id": "2829564599580840089",
+          "total": 10,
+          "link": "https://scholar.google.com/scholar?cluster=2829564599580840089&hl=en&as_sdt=0,31"
+        },
+        "related_articles_link": "https://scholar.google.com/scholar?q=related:mVAJ-wKiRCcJ:scholar.google.com/&scioq=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:mVAJ-wKiRCcJ:scholar.google.com/+retrieval+augmented+generation&hl=en&as_sdt=0,31"
+      },
+      "resource": {
+        "name": "[PDF]",
+        "link": "https://scholar.google.comjavascript:void(0)"
+      },
+      "authors": [
+        {
+          "name": "Z Jiang",
+          "id": "aazankYAAAAJ",
+          "link": "https://scholar.google.com/citations?user=aazankYAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "FF Xu",
+          "id": "1hXyfIkAAAAJ",
+          "link": "https://scholar.google.com/citations?user=1hXyfIkAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "L Gao",
+          "id": "TAIJcewAAAAJ",
+          "link": "https://scholar.google.com/citations?user=TAIJcewAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "Z Sun",
+          "id": "xkH30GgAAAAJ",
+          "link": "https://scholar.google.com/citations?user=xkH30GgAAAAJ&hl=en&oi=sra"
+        },
+        {
+          "name": "Q Liu",
+          "id": "bcbeUo0AAAAJ",
+          "link": "https://scholar.google.com/citations?user=bcbeUo0AAAAJ&hl=en&oi=sra"
+        }
+      ]
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "active retrieval augmented generation",
+      "highlighted": [
+        "active"
+      ],
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,31&qsp=1&q=active+retrieval+augmented+generation&qst=ib"
+    },
+    {
+      "query": "retrieval augmented generation knowledge-intensive nlp",
+      "highlighted": [
+        "knowledge-intensive nlp"
+      ],
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,31&qsp=2&q=retrieval+augmented+generation+knowledge-intensive+nlp&qst=ib"
+    },
+    {
+      "query": "retrieval augmented generation nlp tasks",
+      "highlighted": [
+        "nlp tasks"
+      ],
+      "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,31&qsp=3&q=retrieval+augmented+generation+nlp+tasks&qst=ib"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=10&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=10&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "3": "https://scholar.google.com/scholar?start=20&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "4": "https://scholar.google.com/scholar?start=30&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "5": "https://scholar.google.com/scholar?start=40&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "6": "https://scholar.google.com/scholar?start=50&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "7": "https://scholar.google.com/scholar?start=60&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "8": "https://scholar.google.com/scholar?start=70&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "9": "https://scholar.google.com/scholar?start=80&q=retrieval+augmented+generation&hl=en&as_sdt=0,31",
+      "10": "https://scholar.google.com/scholar?start=90&q=retrieval+augmented+generation&hl=en&as_sdt=0,31"
+    }
+  }
+}

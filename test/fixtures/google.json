@@ -1,0 +1,303 @@
+{
+  "search_parameters": {
+    "engine": "google",
+    "q": "model context protocol",
+    "device": "desktop",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "model context protocol",
+    "total_results": 128,
+    "time_taken_displayed": 0.14,
+    "detected_location": "Unknown",
+    "has_no_results_for": false
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "answer": "The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to function like a \"USB-C port\" for artificial intelligence. It standardizes how AI applications (like Claude or ChatGPT) connect to external data sources, tools, and enterprise systems.",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "header",
+        "answer": "How It Works"
+      },
+      {
+        "type": "unordered_list",
+        "items": [
+          {
+            "type": "paragraph",
+            "answer": "MCP Hosts (Clients): The AI applications or IDEs (such as Claude Desktop, VS Code, or Cursor) that initiate connections and orchestrate workflows.",
+            "reference_indexes": [
+              0,
+              2
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "MCP Servers: Lightweight programs that expose specific capabilities, data, or tools (like Google Drive, GitHub, Slack, Postgres, or local files) via JSON-RPC 2.0.",
+            "reference_indexes": [
+              3,
+              2
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Bidirectional Communication: Unlike static Retrieval-Augmented Generation (RAG) which only reads passive information, MCP allows AI models to actively query data, execute tools, and perform live actions across systems"
+          }
+        ],
+        "reference_indexes": [
+          0,
+          2,
+          3
+        ]
+      },
+      {
+        "type": "header",
+        "answer": "Key Benefits"
+      },
+      {
+        "type": "unordered_list",
+        "items": [
+          {
+            "type": "paragraph",
+            "answer": "Universal Standard: Replaces fragmented, custom-built code integrations for every single API or database with a single plug-and-play protocol.",
+            "reference_indexes": [
+              3,
+              6
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Ecosystem Growth: In December 2025, Anthropic donated MCP to the Agentic AI Foundation under the Linux Foundation. Official SDKs and reference servers are maintained across Python, TypeScript, Java, C#, and other languages on GitHub.",
+            "reference_indexes": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Security & Control: Built with explicit user consent requirements, local environment support, and sandboxed tool execution.",
+            "reference_indexes": [
+              2,
+              4
+            ]
+          }
+        ],
+        "reference_indexes": [
+          3,
+          6,
+          1,
+          7,
+          2,
+          4
+        ]
+      },
+      {
+        "type": "paragraph",
+        "answer": "Would you like to know how to build your own MCP server, or are you looking to connect MCP to a specific AI client like Claude or Cursor?"
+      }
+    ],
+    "markdown": "The Model Context Protocol (MCP) is an open standard introduced by Anthropic in November 2024 to function like a \"USB-C port\" for artificial intelligence. It standardizes how AI applications (like Claude or ChatGPT) connect to external data sources, tools, and enterprise systems. [0](https://www.google.com/goto?url=CAESggEBxCJF1wijMmHCPWS-CbUs6QoDUHyHgFDPu5lmpNamDzQSpGpQEd4590bXmwXLJEBhqE-dQf1_4SmW8Zn7qyNoIyPKyLdVnzJfLh7SbU-bFV2rMvEzMALEzQJt6FO9Y7tZfWkChQ5TTNTwWkgOIqhEXfgkEjBQUs_q5EqlXYiFlLnD) [1](https://www.google.com/goto?url=CAEScQHEIkXXW0QHkWo8GtNNqVP78K1-86l871OHHJbr5q6US2ZJ3rYAoc9uqZUqt6pPF3hHXhNte_BOc6fgU1r_6Arji6vsiXbUFc0f7NGbCpEGCi7tytEwcwPASrpY_BOzfnWMWygDju8vbZffA3uHVDUa)\n\n## How It Works\n\n- MCP Hosts (Clients): The AI applications or IDEs (such as Claude Desktop, VS Code, or Cursor) that initiate connections and orchestrate workflows. [0](https://www.google.com/goto?url=CAESggEBxCJF1wijMmHCPWS-CbUs6QoDUHyHgFDPu5lmpNamDzQSpGpQEd4590bXmwXLJEBhqE-dQf1_4SmW8Zn7qyNoIyPKyLdVnzJfLh7SbU-bFV2rMvEzMALEzQJt6FO9Y7tZfWkChQ5TTNTwWkgOIqhEXfgkEjBQUs_q5EqlXYiFlLnD) [2](https://www.google.com/goto?url=CAESdQHEIkXX1QmwFotceQaHwKpiY35iiNazoYc5hEVa1Z49t3hfhz7sx8LgnErCpNcE53g9lvlhWOuVmzcsBYtvYiBGFs2DX-A7Z90Q9xkvqNpDuLilIQch3fj-G_fCBO3DPQO4g0S3GeduWNqZpR0RTS4CjIylpw)\n- MCP Servers: Lightweight programs that expose specific capabilities, data, or tools (like Google Drive, GitHub, Slack, Postgres, or local files) via JSON-RPC 2.0. [3](https://www.google.com/goto?url=CAEScgHEIkXXoNFPIhAEa",
+    "reference_links": [
+      {
+        "index": 0,
+        "title": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+        "link": "https://www.google.com/goto?url=CAESggEBxCJF1wijMmHCPWS-CbUs6QoDUHyHgFDPu5lmpNamDzQSpGpQEd4590bXmwXLJEBhqE-dQf1_4SmW8Zn7qyNoIyPKyLdVnzJfLh7SbU-bFV2rMvEzMALEzQJt6FO9Y7tZfWkChQ5TTNTwWkgOIqhEXfgkEjBQUs_q5EqlXYiFlLnD",
+        "link_token": "9NFpRxpTLFY09YcR2_7oVdoh5zIimSKh6Rq-gx_xhB-pXNYnDo1F2qjvoJonV6zE9WAe6iwvHKUwDDuvvy9yek-_O5bOZOcBBVXuU0-aDwGqiyNPXB0qWEqo",
+        "snippet": "Definition: Model Context Protocol (MCP) is an open-source standard functioning as a USB-C port for AI, connecting applications li...",
+        "source": "Model Context Protocol",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://modelcontextprotocol.io&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg9ew9cmVy66VVFsQufedCJJnx6ZDhVjIDaz7G162Q7rKRN5RW6z7k4JdeWwAESWkW8Y0vmJ7NW2Xqd73LEN724xB3ETxynRxeFFXanh2KWel9IXJgNLQg1sfR6_uMOU0DyWUqh4g9yFQ"
+      },
+      {
+        "index": 1,
+        "title": "Model Context Protocol - Wikipedia",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXW0QHkWo8GtNNqVP78K1-86l871OHHJbr5q6US2ZJ3rYAoc9uqZUqt6pPF3hHXhNte_BOc6fgU1r_6Arji6vsiXbUFc0f7NGbCpEGCi7tytEwcwPASrpY_BOzfnWMWygDju8vbZffA3uHVDUa",
+        "link_token": "X-muV99sT4YZE_Co4OJ3GHhhfxAxutYKiua8UqWwRyI5hSeDUIK1m1NYTq3pGLKaOGs85X_R-jPN07pdH4KN17kGMxdh4mj2zkCJNaz6dojqe27xH54TgDC5",
+        "snippet": "The Model Context Protocol (MCP) is an open standard and open-source framework introduced by Anthropic in November 2024 to standar...",
+        "source": "Wikipedia",
+        "favicon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1mYS9s4aSOd65zmf1XrZ3lxgAco4EU1ZoizuZsX4F4dETTwap2Ar84cQqZSIlxGqO-d7CIMxCDVyNKaLdj_LhlGB9CGCJ6k1yVD49k5suL7Ux_bk8KNgCo_lkXBtPYOpX1WTRVxjBRbXG1XWhLkjuPmc"
+      },
+      {
+        "index": 2,
+        "title": "Specification - Model Context Protocol",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXX1QmwFotceQaHwKpiY35iiNazoYc5hEVa1Z49t3hfhz7sx8LgnErCpNcE53g9lvlhWOuVmzcsBYtvYiBGFs2DX-A7Z90Q9xkvqNpDuLilIQch3fj-G_fCBO3DPQO4g0S3GeduWNqZpR0RTS4CjIylpw",
+        "link_token": "UvPxyFajmHQlU5TNn95ePrfp9mRpY2dTNBcpGLGsWhebAB18e9m4Uk7vimE8GqCTjFcYl1yocPIYqyCR23gyEkK9yOkWKI0VjNI7BrzyJrSnGCY5pCTVx4U6",
+        "snippet": "Overview: Open protocol standardizing integration between LLM applications (Hosts/Clients) and external services (Servers) using J...",
+        "source": "Model Context Protocol",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://modelcontextprotocol.io&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrlxsp_nKu7xgps2Jj2YchI_lC93ruP_EmDOYgegbKW_6tjdrC3rfNWE6wHIx1MvFniGqwOdt6_2VybYj_es8fCh2CGKKgWPXwKkfk8gxn8aPXaBjwEZdpeAQCj7vSvJsgGXDEbA-eLJ9EtnbG1-zWXw"
+      },
+      {
+        "index": 3,
+        "title": "Introducing the Model Context Protocol \\ Anthropic",
+        "link": "https://www.google.com/goto?url=CAEScgHEIkXXoNFPIhAEaSG7-FMi3z7ajwM0yhKwBb5h7EcTr6AgmyBYTAbvnvu3u3Kkm-zjFrED5bwQLHDmj9YcIJ5ZKFjnJAlFfN0XEsRCKorrwPkBL4IzzKyGnPHnaz6UFf1TvLo31FRtUpVoWvrcd-69Qw",
+        "link_token": "D4_2NHzp_ha-PbsrPOz7Mi9qSGV4ogWFrxuFxQ6S-c0fVh_4Y3-CckrZDQEFFTbqKePEdv49JjO4Op6oJOOij_VawaF_oY56XYRzu-SFX4AU6FZk5LEVJ3lj",
+        "snippet": "Core Concept: Model Context Protocol (MCP) by Anthropic is an open standard replacing fragmented integrations with secure, two-way...",
+        "source": "Anthropic",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.anthropic.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW6SlS0531oR0TuHcZOAdnVQEGbCy0veND7stzfa4Z-a3o6B1bIUePZ6V9JrWPd_JKSHazrh3eog5ywH-wDHTFPjxpgS5snVuQaSc_YV51Cu9YAmy946HVdNwrEcxV9gVj81L22lre6WEVJceeNHM735o"
+      },
+      {
+        "index": 4,
+        "title": "What is Model Context Protocol (MCP)? A guide | Google Cloud",
+        "link": "https://cloud.google.com/discover/what-is-model-context-protocol",
+        "snippet": "Core Definition: Model Context Protocol (MCP) is an open standard by Anthropic providing a standardized two-way connection for LLM...",
+        "source": "Google Cloud",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cloud.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpUhz053Pfr44kyT5ecB-YCwLVACrqLLcDVCGZY-r3Pf-oIglfRoqbhITuA_xCf2yDx6fZQWltx5JZaZmQSFUyGlUgn6Anvh5uQVNiyeAMMPnOSnaojlxwnxgoNR_fvTM08q_yuDq3P3igrOEj3z4qIXs"
+      },
+      {
+        "index": 5,
+        "title": "What is the Model Context Protocol (MCP)? | Databricks",
+        "link": "https://www.google.com/goto?url=CAESewHEIkXXoREmhauwQ2tx74R85f4IpeiDdRhkaq2fdX6H4JxPlL94EMuUXJ5n3SzJIhfJfh61mBBKO_tJL2VmXi-LjeVnMtzweWP30jGIraX2vMVzzAf4ipyM2XJTFbP1jCtO-MnKtck-gH3L_ibWWjuFih3x1ONxSwJqUg",
+        "link_token": "NGwdZQfEEmaOBrsZu99y3-diksmGc6WXf2TkxTWHamWAT-kVgcAL1F1_SecwqBSmRs1Eg_TLJNHlOv-ldaBfJ8OvSN-vI84Pjh25IJ-nbVpVFB-8zVRiQmPg",
+        "snippet": "Definition: Model Context Protocol (MCP) is an open standard and client-server framework enabling AI applications to securely and ...",
+        "source": "Databricks",
+        "favicon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.databricks.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLzPkplipz7Yp7Tul0zACR5n_7go8WbQcYBTx7VcdkC9U5YSSl2bMavk1HUSoFyMxxS4ENbmXB_gCm8WIb-UlR4jL3Cjz2alFp_gm4jy8VPd3ZQgRdwr7ZG9i_Riw4KTCxY8YKYoofLxkGZVNjWISa_vE"
+      },
+      {
+        "index": 6,
+        "title": "MCP Explained Simply — What It Is and Why It Exists",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXk1eAU880JfpX0P_iKvgnXM9tnsFUX7eeAezSZ6otr1r2wF0Bk_FJ5BahyYexUiR-NAm9N6_AD2YU9wnFZFH34VmeaF2LFLm8M71c_sdbRm_m_bzYsyNB3fr9xFrYkeOd4iVEvuV2rXc",
+        "link_token": "3B2w3TEgIKCDuC9GIMYvhK_hAjkiYU3ZHeAvUPciBjaK-mIMGjZPxx6Ta3g0O_XDhpWGzfatA62WzwA4i--4NCepy9XSH3XqZLxKU5mm0HHaaEelRJHITECi",
+        "snippet": "MCP Explained Simply — What It Is and Why It Exists and each one has different authentication. different error formats. different ...",
+        "source": "YouTube",
+        "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwXweQ9DeglANXJYuoGgEGXgIYi99Qh0GNHcEF-IthfdI0TkQPcumya_9DF2qOWwRXL_nJ1AXMUGHjC4pkb2Rk4AXhwInv6sEZ2xeYE7RpFhGEGbs0KdU9ZnAKPXXmJlAp5bTWJ2bBmNdtrrlhH2O7C4s"
+      },
+      {
+        "index": 7,
+        "title": "Model Context Protocol - GitHub",
+        "link": "https://www.google.com/goto?url=CAESZAHEIkXX3-cxvhWllBBb3tRDEML6YaHUcRVVWWO9Ry64f8Bq7SUIwmmoxxAjyHlcSyqbgdtIy-aQYpxqgBDjDxTDyj-OxZOhmXaifl82L9qup1l4jZvQpxfVBQgtL6_BMIPZ3y0",
+        "link_token": "1Tsvv3Izcp9JgE5DdTI1xPvrdN38MMMXhidfZ4nl3dR6p19Di96BswazPx-Wcyb8hCawfQQQRZLoLmedGSl9bfhFuCD77RX-GaVxMmE8_xW8bH8Qj1DQtSPg",
+        "snippet": "A protocol for seamless integration between LLM applications and external data sources Documentation | Specification | Discussions...",
+        "source": "GitHub",
+        "favicon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://github.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScVTSJoMS3hSe0Q0XoKWokyQ1JdSBpyLtkMR3wth0EqMyvfGf07F215FZGR2cgG22YqHSOPMmvn0NXPkSHrWGqMZRWHj_snGpLiNlLxefZF0RSp6uSiXhV0RK46FcCAuVOdL7mCnNKb75ksROPagha7dI"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Model Context Protocol (MCP) Explained",
+      "link": "https://humanloop.com/blog/mcp",
+      "source": "Humanloop",
+      "domain": "humanloop.com",
+      "displayed_link": "https://humanloop.com › blog › mcp",
+      "snippet": "The Model Context Protocol (MCP) is an open standard developed by Anthropic that offers a universal method for connecting AI assistants to ...",
+      "snippet_highlighted_words": [
+        "Model Context Protocol"
+      ],
+      "date": "Apr 4, 2025",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 2,
+      "title": "What is MCP (Model Context Protocol)? - The AI Engineer",
+      "link": "https://theaiengineer.substack.com/p/what-is-mcp",
+      "source": "Substack · The AI Engineer",
+      "domain": "theaiengineer.substack.com",
+      "displayed_link": "20+ likes  ·  8 months ago",
+      "snippet": "MCP (Model Context Protocol) is an open standard that gives AI models a universal way to connect to external tools and data. One MCP server, ...",
+      "snippet_highlighted_words": [
+        "MCP (Model Context Protocol"
+      ],
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "What Is MCP? A Simple Guide to Model Context Protocol ...",
+      "link": "https://admin.salesforce.com/blog/2025/what-is-mcp-a-simple-guide-to-model-context-protocol-for-salesforce-admins",
+      "source": "Salesforce",
+      "domain": "admin.salesforce.com",
+      "displayed_link": "https://admin.salesforce.com › Article",
+      "snippet": "Model Context Protocol, or MCP, a new standard designed to let agents connect with tools, services, and external applications to access data, ...",
+      "snippet_highlighted_words": [
+        "Model Context Protocol, or MCP"
+      ],
+      "date": "Aug 6, 2025",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Model Context Protocol (MCP) Clearly Explained",
+      "link": "https://www.google.com/goto?url=CAESnAEBxCJF10nCy-wy_beTMOJSAfQTv9dffgeIZ7yfUQZ9r7QqjOnUeQXkKKd0RKMwTiSAXa32m0wd2wABeL4EMynkCVO-dRunpBoqBNM3SvU4t1tkYI-_ZqV-ftzb_-nBCMbXUgznbYi-ypR8cSZ8LDcKskZVANu9USJLBExSnxxWVhTr2AljjKoUn9G-Alt-IvlUyKXNuKDsb-ObXeM&gsessionid=Bv0TTBoNwIKE8shPN7zgkfaPtdbUY3uNHoYAkknLq6dvgpPMpQtKUw",
+      "link_token": "Ly2KaHSRZ952TjSCO4grr9LwX0sKiYTaEStqN6LrD0fT_g6DxEuXWHcxMJsD0cLHjfFCs-qkLSw56W5CRPw8u2yERqQiDfyIxcL-n7uqwtIk_FlLZfEReqHu",
+      "source": "Reddit",
+      "date": "1 year ago",
+      "posts": "40+ comments",
+      "community": "r/LLMDevs",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+      "answers": [
+        {
+          "snippet": "The Model Context Protocol (MCP) is a standardized protocol that connects AI agents to various external tools and data sources. Imagine it as a ...",
+          "link": "https://www.google.com/goto?url=CAESnAEBxCJF10nCy-wy_beTMOJSAfQTv9dffgeIZ7yfUQZ9r7QqjOnUeQXkKKd0RKMwTiSAXa32m0wd2wABeL4EMynkCVO-dRunpBoqBNM3SvU4t1tkYI-_ZqV-ftzb_-nBCMbXUgznbYi-ypR8cSZ8LDcKskZVANu9USJLBExSnxxWVhTr2AljjKoUn9G-Alt-IvlUyKXNuKDsb-ObXeM&gsessionid=Bv0TTBoNwIKE8shPN7zgkfaPtdbUY3uNHoYAkknLq6dvgpPMpQtKUw",
+          "link_token": "Fc4l1RbEZ2kqauLnetusHAGx6JCsalU8yPXucTNMtPJwAe96A8jSNSQZOFTXsljd8cGZ9Wjv2M5rGjB3YDm0SCJw_-jfBjZrNmhnub-Wcg6Lf5R2qpxS0srR"
+        }
+      ]
+    },
+    {
+      "title": "MCP - Model Context Protocol. | Souvik Roy",
+      "link": "https://www.google.com/goto?url=CAESrwEBxCJF17tFieRvxJTy9IsDwDEY8X6v9pVzMDZFg65Gb2PesBgkJM9Yc2HnCVQJoO1f3-4CKiYeWN6r8a7Sc3jk3ym8DFtAGJ4mdOZrZN9YqbDXtyvvjs17sAmbAKnEmHyuSSsvwkbkjnz2Su5Qv8F-3Tg8M4ppb_1iLlIQomx7B4REdpW23ZH-UqtqGFlK6n8VmYQh12mqF3c4-j0KewS6iNLxxJ05lOea6-6A83vK&gsessionid=Bv0TTBoNwIKE8shPN7zgkfaPtdbUY3uNHoYAkknLq6dvgpPMpQtKUw",
+      "link_token": "L7e5KoNqCxvNm3tWAdTd2n546gLeRABz10mCfQfUmIEAqFrIB5t-2FnPI4-9dgCkHJHz1e55hdYc6ts-sjEb_BPow8ZpVdoT2urJXE7fX3FtYWe9EMgH97kG",
+      "source": "LinkedIn",
+      "date": "1 year ago",
+      "posts": "30+ reactions",
+      "community": "Souvik Roy",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "related_questions": [
+    {
+      "is_ai_overview": true,
+      "question": "What is the purpose of a Model Context Protocol?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUV1SUJDcUlCUVVSRVlsZGxXV0puYkVwRlgwbzFVRXRsUzI5UFpWOHRXRlJTTTJ3ME9IRTRTbkl6Umpsc1QwUXRUREpvUWxSVFlUZ3lRMEpZWVZGYWRHZDVjVXcwTFhWMGFYUnRkbGRyZVRKRkxXRmFNMk14T0VkNWQwNVBXVkpoT1ZaRVVtZHNXa3gzV0dGTlYxUmZPRlJLWDBKWVEwcGpiM1JwV0ZRNVptbFdjWGxsTUZobVMyeHJXWEJGTmxaT1pERklWM1YxVVhaRmRUUnhVelpsY0V4TFJrSm5RakozRWhkcExXb3lZVzgyTmt0a1F6UnFkVTFRY0ZCVE5USkJSUm9pUVVoT01FVTNTRTFPUjFKSVJuWk1iSGhtUmpKQ1prRjJiak0zYjNCeVJXdE9kdyZmY3Y9MyZ2ZXQ9MmFoVUtFd2pPcV9XdTRJU1lBeFZRbkdNR0hTUjZEaHNRdHU0UmVnUUlKeEFBJmVpPWktajJhbzY2S2RDNGp1TVBwUFM1MkFFJm9waT04OTk3ODQ0OSZnbD11cyZobD1lbiZ5dj0zJmNzPTEmYXN5bmM9X2ZtdCUzQXByb2c=",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVlpXVFp5ZDJwdVlUVTVTMW81ZVZwR1l6VklS"
+    },
+    {
+      "is_ai_overview": true,
+      "question": "Is MCP still valid?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUVzd0JDb3dCUVVSRVlsZGxXbmxIZVdGQlkza3RhR00yWkhnM1gxZEdPRkJTUzNsdUxYWkhlRzlrZVhWS1FXRlNiR1YyVjJwQkxWcHlOVmhIVFhKV1IyTkVNV2xrTTIxWmRXSTNZMWRmTUU5NGNVOUZlRWxvVTBGNUxWQlplRkp1V0ZCWFVVMWlhME5DYjBKWldFczJMVXAxV1cxMVNHNVVSV2xaTWxKUFFXOUZVRXh1UTNSb01HVkNTR1ZpWjBSc1dHY1NGMmt0YWpKaGJ6WTJTMlJETkdwMVRWQndVRk0xTWtGRkdpSkJTRTR3UlRkSGFuaEthMkpRYlVoc2NqaGFRa2h0WmtWMVVqaHNjMkYzVldOQiZmY3Y9MyZ2ZXQ9MmFoVUtFd2pPcV9XdTRJU1lBeFZRbkdNR0hTUjZEaHNRdHU0UmVnUUlLQkFBJmVpPWktajJhbzY2S2RDNGp1TVBwUFM1MkFFJm9waT04OTk3ODQ0OSZnbD11cyZobD1lbiZ5dj0zJmNzPTEmYXN5bmM9X2ZtdCUzQXByb2c=",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVlpXVFp5ZDJwdVlUVTVTMW81ZVZwR1l6VklS"
+    },
+    {
+      "is_ai_overview": true,
+      "question": "What does MCP stand for in Salesforce and what is its purpose?",
+      "error": "Google AI Overview loads this answer asynchronously; it was not included in this response.",
+      "page_token": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hc3luYy9jYWxsYmFjazo2NzYxP2ZjPUVzd0JDb3dCUVVSRVlsZGxXbFU0VjA5T1lXWjZaMEZ0VkdGd01YWk1ibWRRYm5wUVpVcFRWMlpRWjBoUldsOWpVV2hUU1RJNU9HdGFjMHczV0dkT2VtUnVUMU5rTWpkUE0wNTZOMU50YTFKMlgxQnJMVkEwYUdRMlNFbHZTamQzTVd4U2NrcHpabU42YVRrdFUxVkdRalJSYjBSM01WRTJiV1JDU1RWclowaDVjRk42TW1kUVVXbDBVV0YxVHpJM01Hd1NGMmt0YWpKaGJ6WTJTMlJETkdwMVRWQndVRk0xTWtGRkdpSkJTRTR3UlRkSGJHTnJNRkZDZG0xT1pTMVZUMEl0UjJwWFZWQlFaMjUxUWs1QiZmY3Y9MyZ2ZXQ9MmFoVUtFd2pPcV9XdTRJU1lBeFZRbkdNR0hTUjZEaHNRdHU0UmVnUUlLaEFBJmVpPWktajJhbzY2S2RDNGp1TVBwUFM1MkFFJm9waT04OTk3ODQ0OSZnbD11cyZobD1lbiZ5dj0zJmNzPTEmYXN5bmM9X2ZtdCUzQXByb2c=",
+      "next_page_token": "eyJmYyI6IkVxRUJDbUpCUkVSaVYyVlpXVFp5ZDJwdVlUVTVTMW81ZVZwR1l6VklS"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Model Context Protocol Salesforce",
+      "link": "https://www.google.com/search?sca_esv=f822089436cb05c6&gl=us&pws=0&hl=en&sxsrf=AKL5yDiOGMKhvC8s51ogyf_UH0uJtKx-2Q:1794566283696&q=Model+Context+Protocol+Salesforce&sa=X&ved=2ahUKEwjOq_Wu4ISYAxVQnGMGHSR6DhsQ1QJ6BAgxEAE"
+    },
+    {
+      "query": "Model Context Protocol specification",
+      "link": "https://www.google.com/search?sca_esv=f822089436cb05c6&gl=us&pws=0&hl=en&sxsrf=AKL5yDiOGMKhvC8s51ogyf_UH0uJtKx-2Q:1794566283696&q=Model+Context+Protocol+specification&sa=X&ved=2ahUKEwjOq_Wu4ISYAxVQnGMGHSR6DhsQ1QJ6BAhDEAE"
+    },
+    {
+      "query": "Model Context Protocol wiki",
+      "link": "https://www.google.com/search?sca_esv=f822089436cb05c6&gl=us&pws=0&hl=en&sxsrf=AKL5yDiOGMKhvC8s51ogyf_UH0uJtKx-2Q:1794566283696&q=Model+Context+Protocol+wiki&sa=X&ved=2ahUKEwjOq_Wu4ISYAxVQnGMGHSR6DhsQ1QJ6BAg_EAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=model+context+protocol&oq=model+context+protocol&gl=us&hl=en&start=10"
+  }
+}

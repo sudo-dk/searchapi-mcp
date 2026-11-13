@@ -1,0 +1,559 @@
+{
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "mechanical keyboard",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "mechanical keyboard",
+    "detected_location": "Cherokee County, Georgia"
+  },
+  "filters": [
+    {
+      "options": [
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBioYbWVjaGFuaWNhbCBrZXlib2FyZCBzYWxlMhMIBhIHT24gc2FsZRgCIgRKAhgBWOnzIGAC"
+        },
+        {
+          "text": "Get it fast",
+          "shoprs": "CAESDZoBCgoIEAM4AUABSAEYFCoTbWVjaGFuaWNhbCBrZXlib2FyZDIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFAAUgBKgQQARgBYAI"
+        },
+        {
+          "text": "New",
+          "shoprs": "CAEYCioXbmV3IG1lY2hhbmljYWwga2V5Ym9hcmQyBwgKEgNOZXdY6fMgYAI"
+        },
+        {
+          "text": "Used",
+          "shoprs": "CAEYCioYdXNlZCBtZWNoYW5pY2FsIGtleWJvYXJkMggIChIEVXNlZFjp8yBgAg"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqE21lY2hhbmljYWwga2V5Ym9hcmQyHAgWEg5TbWFsbCBidXNpbmVzcyICagAqBBABGAFgAg"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "text": "Gaming",
+          "shoprs": "CAEYASoaZ2FtaW5nIG1lY2hhbmljYWwga2V5Ym9hcmQyFggBEgZHYW1pbmc6CgjC6zoQw-s6MANY6fMgYAI"
+        },
+        {
+          "text": "Backlit",
+          "shoprs": "CAEYASobYmFja2xpdCBtZWNoYW5pY2FsIGtleWJvYXJkMhcIARIHQmFja2xpdDoKCJHvLBCS7ywwA1jp8yBgAg"
+        },
+        {
+          "text": "Ergonomic",
+          "shoprs": "CAEYASodZXJnb25vbWljIG1lY2hhbmljYWwga2V5Ym9hcmQyGQgBEglFcmdvbm9taWM6CgiZ6zoQmus6MANY6fMgYAI"
+        },
+        {
+          "text": "Mini",
+          "shoprs": "CAEYASoYbWluaSBtZWNoYW5pY2FsIGtleWJvYXJkMhQIARIETWluaToKCMXrOhDG6zowA1jp8yBgAg"
+        }
+      ]
+    },
+    {
+      "options": [
+        {
+          "text": "Wireless",
+          "shoprs": "CAEYASocd2lyZWxlc3MgbWVjaGFuaWNhbCBrZXlib2FyZDIYCAESCFdpcmVsZXNzOgoI5YsrEJDvLDAAWOnzIGAC"
+        },
+        {
+          "text": "Wired",
+          "shoprs": "CAEYASoZd2lyZWQgbWVjaGFuaWNhbCBrZXlib2FyZDIVCAESBVdpcmVkOgoI5YsrEOeLKzAAWOnzIGAC"
+        },
+        {
+          "text": "Bluetooth",
+          "shoprs": "CAEYASodYmx1ZXRvb3RoIG1lY2hhbmljYWwga2V5Ym9hcmQyGQgBEglCbHVldG9vdGg6CgjliysQju8sMABY6fMgYAI"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "product_id": "2029672877353520273",
+      "title": "Womier DUO87 Mechanical Keyboard Detachable Smart Display",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:2029672877353520273,gpcid:12626833522126388490,headlineOfferDocid:6375275921353467004,imageDocid:2900698758831098805,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:2029672877353520273,gpcid:12626833522126388490,headlineOfferDocid:6375275921353467004,imageDocid:2900698758831098805,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$124.99",
+      "extracted_price": 124.99,
+      "original_price": "$158",
+      "extracted_original_price": 158,
+      "rating": 4.4,
+      "reviews": 5,
+      "tag": "20% OFF",
+      "delivery": "Free delivery",
+      "delivery_return": "7-day returns",
+      "seller": "Womier Keyboard",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9lr_jZXwJhhvEo1vs_QuBUpBeCWIjyawk3ri1VS_UtvIeYu8tXLU_buaJJ1xEMiCnY9pmYzGF4xH_cm8FHyhjhnOiwLX_rxJ5MmoptvrXgnsq5LTjMSBZ",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 2,
+      "product_id": "18147754438381160995",
+      "title": "Logitech G316 X 98 Gaming Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:18147754438381160995,gpcid:10939481201255067706,headlineOfferDocid:2912807211089772816,imageDocid:11201870725469265740,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:18147754438381160995,gpcid:10939481201255067706,headlineOfferDocid:2912807211089772816,imageDocid:11201870725469265740,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$90.99",
+      "extracted_price": 90.99,
+      "original_price": "$120",
+      "extracted_original_price": 120,
+      "rating": 4.8,
+      "reviews": 92,
+      "tag": "24% OFF",
+      "delivery": "Free delivery by Tue",
+      "delivery_return": "15-day returns",
+      "seller": "Best Buy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7nEIWVT08Wzb6O2x6eicpFnoSMezYIoLR4V2fpNAgQh-ozcvze5ATnoOFMY1A_I6HKsllPloz2HHU9Gi1tgx7hkkFh1g2dDmE5uzSvP8",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 3,
+      "product_id": "208167336588184519",
+      "title": "Keychron C2 Pro 8K RGB",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:208167336588184519,gpcid:16674747243713357690,headlineOfferDocid:617321084959845541,imageDocid:254610106843935824,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:208167336588184519,gpcid:16674747243713357690,headlineOfferDocid:617321084959845541,imageDocid:254610106843935824,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$64.99",
+      "extracted_price": 64.99,
+      "rating": 4.8,
+      "reviews": 89,
+      "seller": "Keychron.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQacbWCTVKx7mQdRQbTmQNt-biwSa-NcH9wqdUKpuP8kd-9ZnqmyJ7OdHPJQXRNXlJuyUXX9JjuPGIWCnt-ArNoAUj9utdS1W7h4uHAmh2TUdQCOG0yf1FI1w",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 4,
+      "product_id": "10534862950362891730",
+      "title": "Ducky One 3 TKL Keyboard USB",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10534862950362891730,gpcid:14536142689612028119,headlineOfferDocid:81941804801293947,imageDocid:9107669024437452328,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10534862950362891730,gpcid:14536142689612028119,headlineOfferDocid:81941804801293947,imageDocid:9107669024437452328,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$119.00",
+      "extracted_price": 119,
+      "rating": 4.5,
+      "reviews": 205,
+      "delivery": "Free delivery",
+      "delivery_return": "30-day returns",
+      "seller": "Mechanical Keyboards",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCFR4t0b3_6UjJCGtcviDqs9IgicKM-Hxsk85WcICnIoFXAoPqRYhaqgFW8uhfeKU5Na6fssFF2-5eKx6-l_5akmWmkfW2CLwknhe7h7KKpaQ1JDznUa2c",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 5,
+      "product_id": "4603642511690907054",
+      "title": "GravaStar Mercury K98 Pro Wireless Mechanical Gaming Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:4603642511690907054,gpcid:12323468600462210222,headlineOfferDocid:14818278447248981199,imageDocid:920190540282231366,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:4603642511690907054,gpcid:12323468600462210222,headlineOfferDocid:14818278447248981199,imageDocid:920190540282231366,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$233.95",
+      "extracted_price": 233.95,
+      "original_price": "$260",
+      "extracted_original_price": 260,
+      "rating": 4.5,
+      "reviews": 162,
+      "tag": "10% OFF",
+      "delivery": "Free delivery",
+      "seller": "Gravastar",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQq-RlnaHz1vxiSAWbuIVwsGeAZJvWphOuy05SYOzGX8l_PcW-aKjBgBa92ioVjU6OavxaUkwc0tNIL_VOsGnVGdpU6xWq4FEnEmzz5jA",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 6,
+      "product_id": "12242806608353680139",
+      "title": "Logitech POP Keys Mechanical Wireless Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:12242806608353680139,gpcid:3372569244917877281,headlineOfferDocid:12667808551098331359,imageDocid:3699215321962199452,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:12242806608353680139,gpcid:3372569244917877281,headlineOfferDocid:12667808551098331359,imageDocid:3699215321962199452,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "rating": 4.7,
+      "reviews": 1100,
+      "delivery": "Free delivery",
+      "delivery_return": "30-day returns",
+      "seller": "Lenovo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR784dvQiB0EKFvIQmxomfKfbFrf8q26zWk74Fccy20SGhCkg4tE6ulMYc06TVi-CFekTUl5UoHS7eGLhP0wJ42ZxBZ4iO1J9k3N9Y2hSicvtmTvEDN34k4",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 7,
+      "product_id": "8418425817255838881",
+      "title": "AZIO Retro Classic USB Backlit Mechanical Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8418425817255838881,gpcid:586629667888607195,headlineOfferDocid:13954121923454548162,imageDocid:14890077120310283876,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8418425817255838881,gpcid:586629667888607195,headlineOfferDocid:13954121923454548162,imageDocid:14890077120310283876,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$159.99",
+      "extracted_price": 159.99,
+      "original_price": "$200",
+      "extracted_original_price": 200,
+      "rating": 4.6,
+      "reviews": 106,
+      "tag": "20% OFF",
+      "delivery": "Free delivery",
+      "seller": "AZIO Corporation",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8Zzu2ulZ-GRgwF76NuAqys2gzzNTr5epcyx2nV8Juh7LIkTcMeERWw1WwuXl-TzbPN1tnReEzEiumNYKQaJLoKEWXdEcOBpA4coPIQ9ENLFAhcrWw2oXd",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 8,
+      "product_id": "1777413597294153367",
+      "title": "Onn. Mechanical Gaming Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:1777413597294153367,gpcid:12110814183673775457,headlineOfferDocid:3033896080493374115,imageDocid:10836398627194122353,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:1777413597294153367,gpcid:12110814183673775457,headlineOfferDocid:3033896080493374115,imageDocid:10836398627194122353,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$46.00",
+      "extracted_price": 46,
+      "rating": 4.2,
+      "reviews": 286,
+      "delivery": "Free delivery by Mon",
+      "delivery_return": "Free 90-day returns",
+      "seller": "Walmart",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYm6IrbinBYt_atggolBY5VQGz6g74o1cQ0yufRSMgMSR2h1sOrPC8zfCyLAPG47GJRHoAkWLcFLoOgyKrtnOIQWU1lgcWBZFbm5gGTdrw145nVPlKy5DV",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 9,
+      "product_id": "5430994265567487833",
+      "title": "Keychron C1 Pro 8K QMK Wired Custom Mechanical Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:5430994265567487833,gpcid:506552002479411611,headlineOfferDocid:7744587847656137809,imageDocid:14616941963520385084,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:5430994265567487833,gpcid:506552002479411611,headlineOfferDocid:7744587847656137809,imageDocid:14616941963520385084,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "rating": 4.9,
+      "reviews": 223,
+      "seller": "Best Buy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrak51HXlUH1afVVN6MYAeSVumzYGe6WFppw0c9Km7YDuRBbp3kG1e0hIikyq2WMaAmHD8kYH7gxGQXe71A01Bjj8Fm4e_mR9VFZMR_CuIKogHAdM65Tgouw",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 10,
+      "product_id": "11570881244831094008",
+      "title": "Lofree OE921 Flow Lite84 Mechanical Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:11570881244831094008,gpcid:7330179448312343961,headlineOfferDocid:3378397730692280646,imageDocid:4321746680441120012,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:11570881244831094008,gpcid:7330179448312343961,headlineOfferDocid:3378397730692280646,imageDocid:4321746680441120012,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$99.00",
+      "extracted_price": 99,
+      "original_price": "$129",
+      "extracted_original_price": 129,
+      "rating": 4.9,
+      "reviews": 110,
+      "tag": "23% OFF",
+      "delivery": "Free delivery",
+      "delivery_return": "30-day returns",
+      "seller": "Lofree Official",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2daZs6JwEJ5sR8YX4n_tJ0ZfGIJ2MjvkdWX06AIcTrM1f98xPGngrcDKEfOT6zxq9j8oIDuo8aSAtQHgX_u9leDFm1U9_YbkbCe9r6DerjaFcALUr2jWU",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 11,
+      "product_id": "11302637610396941450",
+      "title": "SteelSeries Apex 3 TKL Gaming Keyboard",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:11302637610396941450,gpcid:10873119469371923081,headlineOfferDocid:8388008704064792914,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "offers": "& more",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:11302637610396941450,gpcid:10873119469371923081,headlineOfferDocid:8388008704064792914,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "rating": 4.7,
+      "reviews": 1600,
+      "delivery_return": "30-day returns",
+      "seller": "Micro Center",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThsLBNl847dDMlMVDZ6BxCEreRdX5cdchYRkP9m_FsG7VI51Btbuqi-cxi0Yo0We0OndL2A89eWoqhWu5OT8YgQ-FXAlzf7Q",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    },
+    {
+      "position": 12,
+      "prds": "3340926711600667471",
+      "title": "Evoworks Evo80 Aluminum TKL Hotswap Wireless Keyboard Anodized Ink / Keygeek Neo Oat / Polypropylene",
+      "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:3340926711600667471,imageDocid:16587577406443107720,pvo:3,pvt:hg&gl=us&hl=en&udm=28",
+      "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:3340926711600667471,imageDocid:16587577406443107720,pvo:3,pvt:hg&gl=us&hl=en&udm=28",
+      "price": "$169.99",
+      "extracted_price": 169.99,
+      "delivery": "Free delivery",
+      "delivery_return": "30-day returns",
+      "seller": "Mechanical Keyboards",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTgm9JJGstBpQxGB5gsUFYmh3qnQxxuz1GX5B25Br45zKk1-xZVHb2vmqmKwox3WHO7auJN024ztU2F4iyXJri8Eq-nn5KY80SS7AhXcoUF16sSqFg7--hmIA",
+      "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+    }
+  ],
+  "categorized_shopping_results": [
+    {
+      "title": "Linear Switch Keyboards",
+      "shopping_results": [
+        {
+          "position": 1,
+          "product_id": "3638995751328577716",
+          "title": "CHERRY MX SILENT RED - Keyboard switch - RED",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:3638995751328577716,gpcid:6450138767742911262,headlineOfferDocid:1038483827758760696,imageDocid:15607778990136214172,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:3638995751328577716,gpcid:6450138767742911262,headlineOfferDocid:1038483827758760696,imageDocid:15607778990136214172,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$0.40",
+          "extracted_price": 0.4,
+          "delivery": "Free delivery",
+          "seller": "Mechanical Keyboards",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 2,
+          "product_id": "8780440829172370240",
+          "title": "Glorious Fox Linear Switches",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8780440829172370240,gpcid:13536075666506470286,headlineOfferDocid:286271720952767294,imageDocid:16293232295900098421,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8780440829172370240,gpcid:13536075666506470286,headlineOfferDocid:286271720952767294,imageDocid:16293232295900098421,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$24.99",
+          "extracted_price": 24.99,
+          "original_price": "$40",
+          "extracted_original_price": 40,
+          "rating": 4.8,
+          "reviews": 21,
+          "tag": "37% OFF",
+          "delivery": "Free delivery on $35+",
+          "seller": "Best Buy",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 3,
+          "product_id": "10239761208169517595",
+          "title": "Keychron Mechanical Switch",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10239761208169517595,gpcid:12661232139500709025,headlineOfferDocid:13479844989383073461,imageDocid:7969383840213962263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10239761208169517595,gpcid:12661232139500709025,headlineOfferDocid:13479844989383073461,imageDocid:7969383840213962263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$9.99",
+          "extracted_price": 9.99,
+          "installment": {
+            "down_payment": "$9.99",
+            "extracted_down_payment": 9.99,
+            "cost_per_month": "$9.99$0.29/ct",
+            "extracted_cost_per_month": 9.99,
+            "extracted_cost_per_moth": 9.99
+          },
+          "rating": 3.5,
+          "reviews": 4,
+          "delivery": "Free delivery on $69+",
+          "seller": "Keychron.com",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 4,
+          "prds": "14448293625961857765",
+          "title": "Kailh Speed Silver 40g Linear Switch Single LED",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:14448293625961857765,imageDocid:15717458188774299418,pvo:19,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:14448293625961857765,imageDocid:15717458188774299418,pvo:19,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$0.27",
+          "extracted_price": 0.27,
+          "original_price": "$0.33",
+          "extracted_original_price": 0.33,
+          "tag": "18% OFF",
+          "delivery": "Free delivery",
+          "seller": "Mechanical Keyboards",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 5,
+          "product_id": "5447431649331886643",
+          "title": "Womier Keyboard Switch for Mechanical Gaming Keyboard 5-Pin 55gf Linear Pre-Lubed Switches with Standard MX Structure,35pcs",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:5447431649331886643,gpcid:16143478272516549299,headlineOfferDocid:4482928085798582124,imageDocid:5733483583410897646,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:5447431649331886643,gpcid:16143478272516549299,headlineOfferDocid:4482928085798582124,imageDocid:5733483583410897646,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$18.99",
+          "extracted_price": 18.99,
+          "original_price": "$22",
+          "extracted_original_price": 22,
+          "tag": "13% OFF",
+          "delivery": "Free delivery",
+          "seller": "Best Buy",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        }
+      ]
+    },
+    {
+      "title": "Tactile Switch Keyboards",
+      "shopping_results": [
+        {
+          "position": 1,
+          "product_id": "8834071140039222711",
+          "title": "Keyboard Lofree Flow",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8834071140039222711,gpcid:18042296601828833734,headlineOfferDocid:15053701478097476251,imageDocid:14104466963939271653,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8834071140039222711,gpcid:18042296601828833734,headlineOfferDocid:15053701478097476251,imageDocid:14104466963939271653,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$119.00",
+          "extracted_price": 119,
+          "original_price": "$159",
+          "extracted_original_price": 159,
+          "rating": 5,
+          "reviews": 52,
+          "tag": "25% OFF",
+          "delivery": "Free delivery",
+          "seller": "Lofree Official",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 2,
+          "product_id": "2950728367192530614",
+          "title": "EPOMAKER Crystal Tactile Silent Switch — Mechanical Keyboard",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:2950728367192530614,gpcid:7512930037966148474,headlineOfferDocid:10632983561576219039,imageDocid:12439324388672302263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:2950728367192530614,gpcid:7512930037966148474,headlineOfferDocid:10632983561576219039,imageDocid:12439324388672302263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$14.44",
+          "extracted_price": 14.44,
+          "original_price": "$17",
+          "extracted_original_price": 17,
+          "rating": 5,
+          "reviews": 7,
+          "tag": "15% OFF",
+          "delivery": "Free delivery",
+          "seller": "epomaker",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 3,
+          "product_id": "6863781105179728358",
+          "title": "Logitech G413 SE Gaming Mechanical Keyboard",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:6863781105179728358,gpcid:11069621690508897124,headlineOfferDocid:150130620524595442,imageDocid:10388469510813533279,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:6863781105179728358,gpcid:11069621690508897124,headlineOfferDocid:150130620524595442,imageDocid:10388469510813533279,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$89.99",
+          "extracted_price": 89.99,
+          "rating": 4.6,
+          "reviews": 450,
+          "delivery": "Free delivery",
+          "seller": "Lenovo",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 4,
+          "product_id": "14335706948093923987",
+          "title": "Keychron K8 Tenkeyless Wireless Mechanical Keyboard RGB Backlight",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:14335706948093923987,gpcid:3025288004830962564,headlineOfferDocid:4586082738646520249,imageDocid:13967199753352583928,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:14335706948093923987,gpcid:3025288004830962564,headlineOfferDocid:4586082738646520249,imageDocid:13967199753352583928,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$79.99",
+          "extracted_price": 79.99,
+          "original_price": "$100",
+          "extracted_original_price": 100,
+          "rating": 4.5,
+          "reviews": 1300,
+          "tag": "20% OFF",
+          "delivery": "Free delivery",
+          "seller": "Keychron.com",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 5,
+          "product_id": "8179592520338110992",
+          "title": "Logitech G512 X 98 Gaming Keyboard",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8179592520338110992,gpcid:10266510759477211972,headlineOfferDocid:330979918621809299,imageDocid:11105772913270868940,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:8179592520338110992,gpcid:10266510759477211972,headlineOfferDocid:330979918621809299,imageDocid:11105772913270868940,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$199.99",
+          "extracted_price": 199.99,
+          "rating": 4.8,
+          "reviews": 208,
+          "delivery": "Free delivery by Wed",
+          "seller": "Adorama",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        }
+      ]
+    },
+    {
+      "title": "Clicky Switch Keyboards",
+      "shopping_results": [
+        {
+          "position": 1,
+          "product_id": "4115636308646138874",
+          "title": "Glorious Gaming Glorious Raptor Clicky Mechanical Switches",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:4115636308646138874,gpcid:993021370853115289,headlineOfferDocid:15328912364147554675,imageDocid:10526175590187043351,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:4115636308646138874,gpcid:993021370853115289,headlineOfferDocid:15328912364147554675,imageDocid:10526175590187043351,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$29.99",
+          "extracted_price": 29.99,
+          "original_price": "$40",
+          "extracted_original_price": 40,
+          "rating": 4.7,
+          "reviews": 48,
+          "tag": "25% OFF",
+          "delivery": "Free delivery on $35+",
+          "seller": "Best Buy",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 2,
+          "product_id": "15986586299009398087",
+          "title": "Logitech MX Mechanical Wireless Illuminated Performance Keyboard",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:15986586299009398087,gpcid:9861939545625410498,headlineOfferDocid:1633989692500860651,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:15986586299009398087,gpcid:9861939545625410498,headlineOfferDocid:1633989692500860651,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$179.99",
+          "extracted_price": 179.99,
+          "rating": 4.5,
+          "reviews": 1900,
+          "seller": "CDW",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 3,
+          "product_id": "10239761208169517595",
+          "title": "Keychron Mechanical Switch",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10239761208169517595,gpcid:12661232139500709025,headlineOfferDocid:13479844989383073461,imageDocid:7969383840213962263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:10239761208169517595,gpcid:12661232139500709025,headlineOfferDocid:13479844989383073461,imageDocid:7969383840213962263,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$9.99",
+          "extracted_price": 9.99,
+          "installment": {
+            "down_payment": "$9.99",
+            "extracted_down_payment": 9.99,
+            "cost_per_month": "$9.99$0.29/ct",
+            "extracted_cost_per_month": 9.99,
+            "extracted_cost_per_moth": 9.99
+          },
+          "rating": 3.5,
+          "reviews": 4,
+          "delivery": "Free delivery on $69+",
+          "seller": "Keychron.com",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 4,
+          "product_id": "16956172133822602108",
+          "title": "50PCS Mechanical Keyboard Switches 3 Pin Blue Clicky Keys with Puller Tool",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:16956172133822602108,gpcid:12657930271968232399,headlineOfferDocid:15099886163851991233,imageDocid:17763903709623579627,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "offers": "& more",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=catalogid:16956172133822602108,gpcid:12657930271968232399,headlineOfferDocid:15099886163851991233,imageDocid:17763903709623579627,pvo:25,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$8.98",
+          "extracted_price": 8.98,
+          "installment": {
+            "down_payment": "$8.98",
+            "extracted_down_payment": 8.98,
+            "cost_per_month": "$8.98$0.18/ct",
+            "extracted_cost_per_month": 8.98,
+            "extracted_cost_per_moth": 8.98
+          },
+          "rating": 4.9,
+          "reviews": 11,
+          "delivery": "Free delivery",
+          "seller": "Walmart - Seller",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        },
+        {
+          "position": 5,
+          "prds": "5947350668983057739",
+          "title": "Gateron Ink Blue V2 75g Clicky PCB Mount Switch",
+          "product_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:5947350668983057739,imageDocid:239075292981621877,pvo:19,pvt:hg&gl=us&hl=en&udm=28",
+          "offers_link": "https://www.google.com/search?ibp=oshop&q=mechanical+keyboard&prds=headlineOfferDocid:5947350668983057739,imageDocid:239075292981621877,pvo:19,pvt:hg&gl=us&hl=en&udm=28",
+          "price": "$0.80",
+          "extracted_price": 0.8,
+          "original_price": "$1.20",
+          "extracted_original_price": 1.2,
+          "rating": 4.7,
+          "reviews": 202,
+          "tag": "33% OFF",
+          "delivery": "Free delivery",
+          "seller": "Mechanical Keyboards",
+          "product_token": "eyJxIjoibWVjaGFuaWNhbCBrZXlib2FyZCIsImdsIjoidXMiLCJobCI6ImVuIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsInByb2R1Y3RpZCI6"
+        }
+      ]
+    }
+  ],
+  "all_filters_token": "eyJ2ZXQiOiIxMmFoVUtFd2pQdDVDMTRJU1lBeFVkTllZQUhkNWlCZG9RN2NvTWVnUUlEQkFDLi5pIiwiZWkiOiJtT2oyYXMtTEs1M3FtTFFQM3NXVjBBMCIsIm9waSI6Ijk1NTc2ODk3IiwicSI6Im1lY2hhbmljYWwga2V5Ym9hcmQiLCJ1ZG0iOiIyOCIsInl2IjoiMyIsImNzIjoiMSIsImFzeW5jIjoicXVlcnk6bWVjaGFuaWNhbCUyMGtleWJvYXJkLF9iYXNlanM6JTJGeGpzJTJGXyUyRmpzJTJGayUzRHhqcy5zLmVuLndwT2VFOWhpRnpjLjIwMjMuTyUyRmFtJTNEQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBUVFFQUFFQUFBa0FBZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFDQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFRZ0FBSUFKQUFBQUFBQUFBQUFBQUFBRUVBQUFBQUFFQUFBQUFBQUFBQmdBQUFBQWdBSUFDSUFBQUFBRkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUNBQUJFQUFBQUJFUUFBQUFBQUVBQUQ0aHpIZkFBQ2dBUUFBQUFBQW9BQUJBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFJQUFBQUFBQUFBQUxBQUFBQUFBQVFRQUFBZ0FBSUlnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBRUFBQUFBQUFBb0FBQUFBQUFBQUFRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUNBQUFBS0FBQUFBQUFBSUFBQUFBQUFBQUFBQUFFQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQVFNQUFBQUFBQUFBQUFDZ0FBQUFBQUFBQ0FBQUFBQUFBQUlBQUFBQUFBQUFBQUFBQUFJQUFRQUFBQUFBQUVBQUFBQUtBQUFBd0FGNFBNQVFRUUVBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFJQUFFTUFjU0FJQ1FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFDcDZ5dFlBZ0ElMkZkZyUzRDAlMkZiciUzRDElMkZpY2hjJTNEMSUyRnJzJTNEQUNUOTBvSEx2MjFZVldJZG53d1Z6eklBUkFpQ0dST3dUdyUyRmNiJTNEbG9hZGVkX2hfMCUzRmNiJTNEMTIxNTA5Mzc4LF9iYXNlY3NzOiUyRnhqcyUyRl8l"
+}

@@ -1,7 +1,7 @@
 {
   "name": "searchapi-mcp",
-  "version": "0.1.0",
-  "description": "Model Context Protocol server for SearchApi.io — gives AI agents live, structured results from Google, Google Jobs, Google Shopping, YouTube, Scholar and 100+ other sources.",
+  "version": "0.2.0",
+  "description": "Model Context Protocol server for SearchApi.io: live, LLM-sized results from Google, Google Jobs, Shopping, News, Scholar, YouTube and 100+ other engines.",
   "license": "MIT",
   "type": "module",
   "bin": {
@@ -17,7 +17,9 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsc --watch",
-    "prepublishOnly": "npm run build"
+    "test": "npm run build && node --test test/searchapi.test.mjs",
+    "smoke": "npm run build && node --env-file=.env scripts/smoke.mjs",
+    "prepublishOnly": "npm test"
   },
   "keywords": [
     "mcp",

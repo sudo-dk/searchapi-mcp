@@ -1,0 +1,248 @@
+{
+  "search_parameters": {
+    "engine": "google_jobs",
+    "q": "AI engineer",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "AI engineer",
+    "time_taken_displayed": 0.3,
+    "detected_location": "Miami Gardens, FL",
+    "has_no_results_for": false
+  },
+  "jobs": [
+    {
+      "position": 1,
+      "title": "AI Engineering Consultant",
+      "company_name": "Accenture Plc",
+      "location": "Miami, FL",
+      "via": "via Monster",
+      "description": "<p>We Are:</p><p>Accenture is a leading global professional services company that helps the world's leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services-creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 790,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world's leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at accenture.com.</p><p>Our AI and Data practice sits at the intersection of deep industry knowledge and applied AI and data engineering. We help the world's leading Resources and Utilities organizations reinvent how they run - designing the data foundations, AI platforms, and governance models that turn data into trusted, production-",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "We need practitioners who understand how enterprises actually operate, where the friction lives, and how to engineer smarter solutions using AI and data to fundamentally transform business processes and outcomes",
+            "You are an AI Engineer who builds and integrates AI applications using leading model providers and cloud platforms",
+            "Travel may be required for this role, varying from 0 to 80% depending on business need and client requirements",
+            "Amazon Web Services (AWS), Application Programming Interface (API), Artificial Intelligence (AI), Business Processes, Cloud Computing, Consulting, Data Modeling, Ecosystems, Engineering Consulting, Government Organizations, Leadership, Machine Tool, Microsoft Windows Azure, Process Improvement, Professional Services, Python Programming/Scripting Language, Revenue Growth, Software Engineering, Technical Operations",
+            "1 more items(s)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "You develop LLM-powered applications, APIs, and pipelines - implementing RAG, prompt orchestration, evaluation, and guardrails - and you deploy and operationalize AI workloads on cloud infrastructure with scalability, security, cost efficiency, and reliability in mind",
+            "Build AI applications - develop and integrate AI applications using leading model providers (OpenAI, Anthropic) and cloud platforms (AWS Bedrock, Azure OpenAI, Google Vertex AI)",
+            "Implement LLM patterns - implement RAG, prompt orchestration, evaluation, and guardrails in LLM-powered applications, APIs, and pipelines",
+            "Deploy AI workloads - deploy and operationalize AI workloads on cloud infrastructure with scalability, security, cost efficiency, and reliability in mind",
+            "Engineer with modern tooling - use Python, API integration, vector databases, and orchestration frameworks (e.g., LangChain, LlamaIndex) to build production-ready solutions",
+            "Apply DevOps practices - apply containerization (Docker/Kubernetes), CI/CD, and cloud security best practices across the AI delivery lifecycle",
+            "3 more items(s)"
+          ]
+        }
+      ],
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule": "Full-time"
+      },
+      "apply_link": "https://www.monster.com/job-openings/ai-engineering-consultant-miami-fl--dc0ab7d9-ac69-4120-80a9-6e93194e73d4",
+      "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+engineer&htidocid=SDJJaCAV03G2VYfPAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CT3tWTQpghc9FVFRFPxBScKSpqS7IbuF_sFPi3OY5rtpuv4BV4qJEGuiCBcmWbI6UtjDkz0IuhpGYII7c8zYnkfVIidrRbKJok5TMIFny4SeVzuxl3-DjK5iyU5xOBy71RSK27YPAUmXivDJARLBO7k57eD2-gHPX6L2jgAAAA&shmds=v1_Ac3VAowfk9iB56iaeABYkCTXlhKibKGFABfjFOmm0NPD-RgEcA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+engineer&htidocid=SDJJaCAV03G2VYfPAAAAAA%3D%3D",
+      "job_id": "EswBCowBQUREYldlWlpkWU9Zc0wyUEExbUZkTEVqSjlIVlNiYTdmNDFxZndRMkNuWUpEYWw4WVpHT2VlRzduc0RualA4SlV4eVFHM1U4eE1Hb3U0UHByVHlYUFFzSENqekRSVE5mT2Nqd3EwbjIzaDA0M1dPRGNCZEpsbXY3Z0Nkc2xGc2Q2eUMwdXk0LUwxVVESF3F1ajJhdjN6Q2FTLXZyMFA0YV9wMkFVGiJBSE4wRTdHdUFTTnA4YzZZb1ZyTkMyZkVpZHgtNmxhMndR"
+    },
+    {
+      "position": 2,
+      "title": "Microsoft AI Engineer - CCoE, NA",
+      "company_name": "Arrow Electronics Inc",
+      "location": "Anywhere",
+      "via": "via Monster",
+      "description": "<p>Position:</p><p>Microsoft AI Engineer - CCoE, NA</p><p>Job Description:</p><p>As a Microsoft AI Engineer, you will support partners, internal teams and end customers across North America with the development, integration and implementation of AI agents. You will help translate customer needs into practical solutions, contribute to proof of concepts and quick developments, and guide stakeholders on how Microsoft technologies can be used to deliver effective AI agent outcomes.</p><p>What You'll Be Doing</p><ul><li><p>Support partners, internal teams and end customers across North America with the development and integration of AI agents.</p></li><li><p>Contribute to proof of concepts, demos and quick/simple developments that show how AI agents can address customer challenges.</p></li><li><p>Engage in customer and partner discussions to understand business needs and help define the best implementation approach for AI agents.</p></li><li><p>Provide guidance on Microsoft technologies, including Microsoft Copilot, Copilot Studio and related AI capabilities.</p></li><li><p>Help partners identify relevant AI agent use cases and translate them into practical, commercially relevant solutions.</p></li><li><p>Collaborate with internal sales, technical and vendor teams to support AI-related opportunities and customer engagements.</p></li><li><p>Share knowledge, best practices and learnings around emerging AI agent topics with internal teams and partners.</p></li><li><p>Support customer",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Willingness/ability to obtain certification is required",
+            "Experience with Microsoft Copilot, Copilot Studio or similar AI agent technologies is required",
+            "Some development skills, including the ability to create quick prototypes or use \"vibe coding\" approaches to support proof-of-concept work",
+            "Understanding of AI agent development and integration; this is not a pure developer role, but the successful candidate should be comfortable discussing and shaping AI agent solutions",
+            "Ability to support partners and customers in defining practical implementation approaches for AI agents",
+            "Strong communication skills and the ability to engage confidently with internal teams, partners and customers across different countries and functions",
+            "Artificial Intelligence (AI), Artificial Intelligence (AI) Agents, Best Practices, Communication Skills, Customer Relations, Customer Support/Service, Dental Insurance, Disability Insurance, Healthcare Reimbursement, Inside Sales, Leadership, Microsoft Certifications, Microsoft Product Family, Needs Assessment, People Management, Product Demonstration, Proof of Concept, Prototyping, Technical Sales, Use Cases, Vision Plan, Willing to Travel, Work From Home",
+            "4 more items(s)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "At Arrow, we recognize that financial rewards and great benefits are important aspects of an ideal job",
+            "That's why we offer competitive financial compensation, including various compensation plans and a solid benefits package",
+            "Medical, Dental, Vision Insurance",
+            "401k, With Matching Contributions",
+            "Short-Term/Long-Term Disability Insurance",
+            "Health Savings Account (HSA)/Health Reimbursement Account (HRA) Options",
+            "Paid Time Off (including sick, holiday, vacation, etc.)",
+            "Tuition Reimbursement",
+            "Growth Opportunities",
+            "And more!",
+            "$138,900.00 - $200,000.00 OTE",
+            "Actual compensation offer to candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level",
+            "The pay ratio between base pay and target incentive (if applicable) will be finalized at offer",
+            "10 more items(s)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Microsoft AI Engineer, you will support partners, internal teams and end customers across North America with the development, integration and implementation of AI agents",
+            "You will help translate customer needs into practical solutions, contribute to proof of concepts and quick developments, and guide stakeholders on how Microsoft technologies can be used to deliver effective AI agent outcomes",
+            "Support partners, internal teams and end customers across North America with the development and integration of AI agents",
+            "Contribute to proof of concepts, demos and quick/simple developments that show how AI agents can address customer challenges",
+            "Engage in customer and partner discussions to understand business needs and help define the best implementation approach for AI agents",
+            "Provide guidance on Microsoft technologies, including Microsoft Copilot, Copilot Studio and related AI capabilities",
+            "Help partners identify relevant AI agent use cases and translate them into practical, commercially relevant solutions",
+            "Collaborate with internal sales, technical and vendor teams to support AI-related opportunities and customer engagements",
+            "Share knowledge, best practices and learnings around emerging AI agent topics with internal teams and partners",
+            "Support customer-facing conversations by explaining technical concepts in a clear and accessible way",
+            "Maintain awareness of developments in Microsoft AI technologies, security considerations and the broader AI agent landscape",
+            "Fully Remote: Must be able to travel to an Arrow office location as requested by Arrow leadership",
+            "9 more items(s)"
+          ]
+        }
+      ],
+      "extensions": [
+        "139K–200K a year",
+        "Work from home",
+        "Full-time",
+        "Health insurance",
+        "Paid time off",
+        "Dental insurance"
+      ],
+      "detected_extensions": {
+        "salary": "139K–200K a year",
+        "work_from_home": true,
+        "schedule": "Full-time"
+      },
+      "apply_link": "https://www.monster.com/job-openings/microsoft-ai-engineer-ccoe-na-miami-fl--8ef6a9a2-0608-4147-971c-fc18b6b97138",
+      "apply_links": [
+        {
+          "link": "https://www.careerbuilder.com/job-details/microsoft-ai-engineer-ccoe-na-miami-fl--8ef6a9a2-0608-4147-971c-fc18b6b97138?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "careerbuilder.com"
+        }
+      ],
+      "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+engineer&htidocid=UZZ95iRtOU_6RN2XAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXGwQqCQBAAULr6CZ2GjmFuBBHUScTCyH5B1mFcN9YZ2VnIb-lrq8vjZZ9Vdmo9RlEZEpQN1Ow8E0XYQVVJncOz_PUuPSjZiCMIw03EBVpfxpRmPRujGgqnySaPBcpkhKmXxbyk1z-djjbSHGyi7nDcL8XMbrspY5Q31IEwRWGPCg0jeIbW28nncH18Af-PZnidAAAA&shmds=v1_Ac3VAoz9QIPOPQBXlYiM1DARpNzVnRYOFuAN4de-Fl-w_MZaWQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+engineer&htidocid=UZZ95iRtOU_6RN2XAAAAAA%3D%3D",
+      "job_id": "EswBCowBQUREYldlWVJ4UUZFdVBRRDdQT0JKUWpwMTl3aExXXy15NWFxTGNQTFduRG5PVWVGTEtzWFVZWjZGbTQxN29fWHBrdEpRZ1BtSUdwRDZSNUZISWJQbmRHeVJhVVNnLVFNamJ5djR1WTJFRXpDVjNjV1IxQUdjakJhNUl0a1JVUWdVVnFldUhJYnYxemcSF3F1ajJhdjN6Q2FTLXZyMFA0YV9wMkFVGiJBSE4wRTdGbUlud1VUeXNhalpBTFlscnFMSzhMOElZX3Zn",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    },
+    {
+      "position": 3,
+      "title": "Principal IT AI Engineer",
+      "company_name": "FormFactor, Inc.",
+      "location": "United States",
+      "via": "via Workday",
+      "description": "Forming Our Future together FormFactor, Inc. (NASDAQ: FORM), is a leading provider of essential test and measurement technologies along the full semiconductor product life cycle — from characterization, modeling, reliability, and design de-bug, to qualification and production test. Semiconductor companies rely upon FormFactor’s products and services to accelerate profitability by optimizing device performance and advancing yield knowledge. The company serves customers through its network of facilities in Asia, Europe, and North America. Rooted in our core values — Focus on the Customer, Ownership & Accountability, Respectfully & Effectively Communicate, and Motivate & Develop People — we foster an environment where diverse perspectives are not only welcomed but celebrated. Everyone can make an impact here. Whether it's improving products, supporting customers, or positively influencing peers and the community, the contributions of our people matter. Shift: The regular hours for this position are day shift. Job Description: The Principal IT AI Engineer supports FormFactor's AI, automation, and digital transformation initiatives by designing, developing, deploying, and supporting software solutions that leverage artificial intelligence, workflow automation, enterprise integrations, and advanced analytics. This is a hands-on software engineering role requiring experience building production applications, developing code, integrating systems, working with APIs, and delivering rel",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is a hands-on software engineering role requiring experience building production applications, developing code, integrating systems, working with APIs, and delivering reliable business solutions",
+            "Typically 5+ years of experience in software engineering, application development, automation, AI enablement, analytics, or related technology disciplines",
+            "Hands-on experience developing, deploying, and supporting production software applications or enterprise solutions",
+            "Strong programming experience with one or more modern languages such as Java, Python, TypeScript, JavaScript, or C#",
+            "Experience building and consuming APIs, integrations, and cloud-based services",
+            "Working knowledge of software engineering practices including source control, testing, code reviews, CI/CD, monitoring, and production support",
+            "Understanding of secure application development, authentication, authorization, data protection, and application security principles",
+            "Experience with AI-assisted development tools, generative AI, large language models, or related AI technologies",
+            "Strong analytical, problem-solving, and stakeholder communication skills",
+            "Software Development: Java, Python, TypeScript, JavaScript, C#, REST APIs, web application development, object-oriented programming, and software design patterns",
+            "Cloud & Data Platforms: Microsoft Azure, Azure Functions, Logic Apps, Databricks, SQL Server, cloud-native services, data integration, data pipelines, analytics platforms, and reporting solutions",
+            "Enterprise Applications & Integration: Enterprise application integrations, ERP platforms, workflow orchestration, API development, business intelligence, data visualization, process automation, and digital workplace solutions",
+            "9 more items(s)"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "Skills: AI Integration, AI Platforms, Artificial Intelligence Software, Artificial Intelligence Techniques, Business Analytics, Data Science Education & Experience: Minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years experience; or equivalent experience | Required Pay Range: $109,300.00 - $143,430.00 Pay Range Explained: This role in Lexington, Kentucky pays between $109,300.00 and $143,430.00 per year, depending on your experience, skills, and background",
+            "Pay may vary in other locations",
+            "We offer a full benefits package, including medical, dental, vision, life insurance, disability coverage, a 401(k) with company match, employee stock purchase plan (ESPP), and paid time off",
+            "You’ll also be eligible for quarterly profit-sharing bonuses and flexible spending or savings accounts",
+            "1 more items(s)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Whether it's improving products, supporting customers, or positively influencing peers and the community, the contributions of our people matter",
+            "Shift: The regular hours for this position are day shift",
+            "Job Description: The Principal IT AI Engineer supports FormFactor's AI, automation, and digital transformation initiatives by designing, developing, deploying, and supporting software solutions that leverage artificial intelligence, workflow automation, enterprise integrations, and advanced analytics",
+            "The successful candidate will leverage cloud platforms, enterprise technologies, and approved AI capabilities to improve business processes, productivity, and decision making across the organization",
+            "The role partners with stakeholders across Engineering, Manufacturing, Quality, Supply Chain, Finance, Human Resources, Sales, and IT to understand business needs, translate requirements into technical solutions, and deliver solutions through the full software development lifecycle",
+            "Key Responsibilities: Design, develop, deploy, and support AI-enabled applications, automation solutions, integrations, and enterprise software using approved technologies and platforms",
+            "Partner with business stakeholders and technical teams to identify opportunities for AI, automation, and process improvement and translate requirements into practical technical solutions",
+            "Independently deliver solutions through the development lifecycle, including requirements, design, development, testing, deployment, documentation, and production support",
+            "Develop and maintain applications, APIs, integrations, workflows, and data-driven solutions using modern software engineering practices",
+            "Build AI-enabled solutions using enterprise AI platforms, large language models, and AI-assisted development tools, while validating AI-generated code for quality, security, and production readiness",
+            "Troubleshoot complex application issues and improve solution reliability, performance, maintainability, and user experience",
+            "Partner with Architecture, Security, Infrastructure, and Data teams to ensure solutions follow enterprise standards, governance requirements, and responsible AI practices",
+            "Contribute to reusable development patterns, standards, templates, documentation, and engineering best practices",
+            "Provide technical guidance to less-experienced developers, citizen developers, and business solution owners as appropriate",
+            "DevOps & Engineering Practices: GitHub, Git, CI/CD pipelines, automated testing, code reviews, source control, application monitoring, deployment automation, and release management",
+            "Focus on the Customer Ownership & Accountability Respectfully & Effectively Communicate Motivate & Develop People Learn more by visiting HERE",
+            "13 more items(s)"
+          ]
+        }
+      ],
+      "extensions": [
+        "2 days ago",
+        "Full-time",
+        "Dental insurance",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule": "Full-time"
+      },
+      "apply_link": "https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/remote-ky/principal-it-ai-engineer_jr101415",
+      "apply_links": [
+        {
+          "link": "https://www.ziprecruiter.com/c/formfactor/Job/Principal-IT-AI-Engineer/-in-Remote,US?jid=d9d5242c6bca56a3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "ziprecruiter.com"
+        },
+        {
+          "link": "https://nlppeople.com/jobs/principal-it-ai-engineer-remote-ky?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "nlppeople.com"
+        },
+        {
+          "link": "https://www.jobleads.com/us/job/principal-it-ai-engineer--united-states--eec4ceb008ca7e7840c35ef53258a2af7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "jobleads.com"
+        },
+        {
+          "link": "https://bebee.com/us/jobs/principal-it-ai-engineer-formfactor-inc-usa-remote-ky--fj-2462846464?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "bebee.com"
+        },
+        {
+          "link": "https://workybara.ai/job/principal-it-ai-engineer-formfactor-remote-0x5jj7h0v3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "workybara.ai"
+        },
+        {
+          "link": "https://dz.hostingpk.infinityfree.me/blogs/news/it-principal-front-office-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "infinityfree.me"
+        },
+        {
+          "link": "https://grovessa.unaux.com/remote-jobs/it-principal-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "source": "unaux.com"
+        }
+      ],
+      "sharing_link": "https://www.google.com/search?ibp=htl;jobs&q=AI+engineer&htidocid=F7BfFcfarnisPZeuAAAAAA%3D%3D&hl=en-US&shem=epsd1,esd2e,rimspwouoe,sdpie&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7CU7nKpqI4KJTByt1EtS5pPFIIuldyN3Q3_CP1eWNr_ksGnuriXwqLkP_gLaHM4VEiBW2cOURBF31EZjgwhwyLk9RtcjRWpFsgqjT5I3nyTLhyLN98yh_BomuYslOcdgfdrMpFNarjuvUOa9cN9CTN5AInpQUX3D_VShfTV4_yJQAAAA&shmds=v1_Ac3VAoxDIduUpgbMDC1EzGfYzw4plLLYXmiLy-c_NQCfPYEEsg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=AI+engineer&htidocid=F7BfFcfarnisPZeuAAAAAA%3D%3D",
+      "job_id": "EswBCowBQUREYldlWUlhdEtFX01RV3BnSVR2V0NIX1V3WVk2QWtndnRCdXF2bnFDT3BidW53amRHTUdnTDFvWG1ZcllYMFdBRVRuckM5MVhGSEpYNk5YdHcwMkhRN3dZLXR0RU54OFVLYVMzV3BZV21EdXVaN0hXOVBqd0dmQ055ZlFXWHd3ZDdGUWEwZFpETXgSF3F1ajJhdjN6Q2FTLXZyMFA0YV9wMkFVGiJBSE4wRTdHUHNPVV9fWVVxa1ZaaEJXc090OGVHZTVTQzl3",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "pagination": {
+    "next_page_token": "eyJmYyI6IkVzd0RDb3dEUVVSRVlsZGxZVzVXZVdWcWQxbHNOamt0UVVGMmNuZFpk"
+  }
+}

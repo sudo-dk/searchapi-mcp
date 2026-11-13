@@ -1,0 +1,11 @@
+{
+  "search_parameters": {
+    "engine": "google_jobs",
+    "q": "AI engineer",
+    "location": "Helsinki,Uusimaa,Finland",
+    "location_used": "Helsinki,Uusimaa,Finland",
+    "hl": "en",
+    "gl": "us"
+  },
+  "error": "Google Jobs didn't return any results."
+}

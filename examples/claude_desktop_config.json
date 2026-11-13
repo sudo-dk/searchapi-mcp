@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "searchapi": {
+      "command": "node",
+      "args": ["/absolute/path/to/searchapi-mcp/dist/index.js"],
+      "env": {
+        "SEARCHAPI_API_KEY": "your_key_here"
+      }
+    }
+  }
+}

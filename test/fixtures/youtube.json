@@ -1,0 +1,180 @@
+{
+  "search_parameters": {
+    "engine": "youtube",
+    "q": "MCP server tutorial",
+    "hl": "en",
+    "gl": "US"
+  },
+  "search_information": {
+    "total_results": 1818616
+  },
+  "videos": [
+    {
+      "position": 1,
+      "id": "He8tUwLzLnU",
+      "title": "MCP Servers Explained & Built",
+      "link": "https://www.youtube.com/watch?v=He8tUwLzLnU",
+      "description": "Secure your MCP server using Descope for free: https://descope.plug.dev/W4lLipY MCP servers are quickly becoming one of the ...",
+      "views": 127327,
+      "channel": {
+        "id": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Tech With Tim",
+        "link": "https://www.youtube.com/@TechWithTim",
+        "is_verified": true,
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "length": "30:14",
+      "published_time": "1mo ago",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCfv5OL1Z7WIgctaHPTTLj-mTKeHQ"
+      },
+      "key_moments": [
+        {
+          "title": "Overview",
+          "start_seconds": 0,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_15000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCj5LheJTwBGkpGboeloabCbnsxKg"
+        },
+        {
+          "title": "What is an MCP Server",
+          "start_seconds": 15,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_21333.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLCPt0MnH6HLpP0XxCHQUAOeHw1SGg"
+        },
+        {
+          "title": "Local vs Remote",
+          "start_seconds": 188,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_191200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB2vRB6Xsnoxt3TfXhBNcAWA4oCkg"
+        },
+        {
+          "title": "Access Control",
+          "start_seconds": 253,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_257200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBH7lnN1M0AB-fIbuG1QOiYp1Dh5A"
+        },
+        {
+          "title": "MCP Protocol",
+          "start_seconds": 558,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_566833.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDObmWV3K2CjwLWkWgxElOa-DqwEA"
+        },
+        {
+          "title": "Building the Server",
+          "start_seconds": 712,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_741233.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLC3M-3_52sGmlmf7JRmu0UwLo2EVQ"
+        },
+        {
+          "title": "Adding Authentication",
+          "start_seconds": 1220,
+          "thumbnail": "https://i.ytimg.com/vi/He8tUwLzLnU/hqdefault_1234133.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLBudNgHGr-cbE_k4tloVO0n5Y1gtQ"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "id": "tTw1z10yMCI",
+      "title": "MCP Servers Explained in 5 Minutes (for beginners)",
+      "link": "https://www.youtube.com/watch?v=tTw1z10yMCI",
+      "description": "read more on this topic https://boostmyagent.com/blog/mcp-explained ━━━━━━━━━━━━━━━━━━━━ Boost OS ...",
+      "views": 237476,
+      "channel": {
+        "id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+        "title": "corbin",
+        "link": "https://www.youtube.com/@Corbin_Brown",
+        "is_verified": true,
+        "thumbnail": "https://yt3.ggpht.com/VPivALVs5h7wBdkSB26ZXpk5qIFR8mZ9elx_dWw9iyfdCkbpbq55c_sVqpKDB46jl9FhOmEZzdA=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "length": "5:32",
+      "published_time": "1y ago",
+      "badges": [
+        "4K"
+      ],
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/tTw1z10yMCI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLB7L1Ig6u3S5I0p28XhMfie-_w3lQ",
+        "rich": "https://i.ytimg.com/vi/tTw1z10yMCI/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLCpHnwPBbwD1-UMMIIsuNb7-Sufxg"
+      }
+    },
+    {
+      "position": 3,
+      "id": "RhTiAOGwbYE",
+      "title": "MCP Tutorial: Build Your First MCP Server and Client from Scratch (Free Labs)",
+      "link": "https://www.youtube.com/watch?v=RhTiAOGwbYE",
+      "description": "MCP Labs for Free: https://kode.wiki/4lFwf5p Ever wondered how AI agents can book flights, check databases, or interact with ...",
+      "views": 432674,
+      "channel": {
+        "id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+        "title": "KodeKloud",
+        "link": "https://www.youtube.com/@KodeKloud",
+        "is_verified": true,
+        "thumbnail": "https://yt3.ggpht.com/_pHLjGmYVp9Qv6r57IhDnEsej2tgpxSyBzD8kUUvDetLLPLGSkDlh77JLxtchccZhBwG8iqq=s68-c-k-c0x00ffffff-no-rj"
+      },
+      "length": "40:14",
+      "published_time": "1y ago",
+      "thumbnail": {
+        "static": "https://i.ytimg.com/vi/RhTiAOGwbYE/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAAAAGAElAADIQj0AgKJDeAG4AvcY&rs=AOn4CLDtmMUf5qaWAm79_IwG7KL-9g_ciA",
+        "rich": "https://i.ytimg.com/vi/RhTiAOGwbYE/hq720.jpg?sqp=-oaymwEbCNAFEJQDSFryq4qpAw0IARUAAIhCGAG4AvcY&rs=AOn4CLDip0XdgvE2g_a5N8es2PRjJGmfHQ"
+      },
+      "key_moments": [
+        {
+          "title": "Introduction to Model Context Protocol",
+          "start_seconds": 0,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Why We Need MCPs",
+          "start_seconds": 42,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Understanding AI Agents",
+          "start_seconds": 130,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "MCP Architecture Explained",
+          "start_seconds": 474,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "MCP Use Cases",
+          "start_seconds": 517,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Lab Environment Setup",
+          "start_seconds": 630,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "What is Model Context Protocol (MCP)? Components Breakdown",
+          "start_seconds": 792,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "MCP Architecture Explained",
+          "start_seconds": 877,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Protocol - JSON-RPC(2.0)",
+          "start_seconds": 1073,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "How to Use an Existing MCP Server? - Demo",
+          "start_seconds": 1190,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Building an MCP Server - Demo",
+          "start_seconds": 1604,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        },
+        {
+          "title": "Building MCP Clients",
+          "start_seconds": 2152,
+          "thumbnail": "https://i.ytimg.com/vi/RhTiAOGwbYE/hqdefault.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "next_page_token": "SBSCAQtIZTh0VXdMekxuVYIBC3RUdzF6MTB5TUNJggELUmhUaUFPR3diWUWCAQtZ"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "search_parameters": {
+    "engine": "bing",
+    "q": "searchapi",
+    "device": "desktop",
+    "country_code": "US",
+    "language": "en"
+  },
+  "search_information": {
+    "query_displayed": "searchapi",
+    "total_results": 50000,
+    "page": 1,
+    "detected_location": "Dallas, Texas"
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "header",
+        "answer": "SearchApi is a real‑time SERP (Search Engine Results Page) scraping service that provides structured JSON data from Google and other search engines, offering features like proxy management, CAPTCHA solving, geo‑targeting, and high‑accuracy scraping."
+      },
+      {
+        "type": "header",
+        "answer": "What SearchApi Does"
+      },
+      {
+        "type": "paragraph",
+        "answer": "SearchApi (searchapi.io) is designed to extract search engine data reliably and at scale. Key capabilities include:"
+      },
+      {
+        "type": "unordered_list",
+        "items": [
+          {
+            "type": "paragraph",
+            "answer": "Real‑time Google SERP scraping with JSON output.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Automatic proxy rotation and CAPTCHA solving, mimicking real user behavior.",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Precise geo‑targeting down to coordinate level.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "High success rate (99.9%) for search requests.",
+            "reference_indexes": [
+              0
+            ]
+          },
+          {
+            "type": "paragraph",
+            "answer": "Support for multiple engines (Google, Bing, YouTube, Maps, etc.) via community integrations.",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "header",
+        "answer": "Example Usage"
+      },
+      {
+        "type": "paragraph",
+        "answer": "A typical Google SERP request looks like:"
+      },
+      {
+        "type": "code_blocks",
+        "code": "curl --get https://www.searchapi.io/api/v1/search \\\n  -d engine=\"google\" \\\n  -d q=\"chatgpt\""
+      },
+      {
+        "type": "paragraph",
+        "answer": "This returns structured JSON including metadata, organic results, knowledge graph, and more.",
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "header",
+        "answer": "Related Ecosystem"
+      },
+      {
+        "type": "paragraph",
+        "answer": "SearchApi maintains open‑source tools and integrations such as:"
+      },
+      {
+        "type": "unordered_list",
+        "items": [
+          {
+            "type": "paragraph",
+            "answer": "wreq-ruby (HTTP client with browser fingerprinting)"
+          },
+          {
+            "type": "paragraph",
+            "answer": "n8n-nodes-searchapi (workflow automation node)"
+          },
+          {
+            "type": "paragraph",
+            "answer": "Google Maps, Flights, Ads research tools built on top of SearchApi’s data pipelines",
+            "reference_indexes": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "type": "header",
+        "answer": "SearchApi vs. Similar Services"
+      },
+      {
+        "type": "paragraph",
+        "answer": "SearchApi is comparable to SerpApi, another major SERP scraping provider offering full‑browser scraping, CAPTCHA solving, and global location targeting.",
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "paragraph",
+        "answer": "SearchApi remains a strong choice for developers needing reliable, structured, real‑time search engine data extraction."
+      }
+    ],
+    "markdown": "## SearchApi is a real‑time SERP (Search Engine Results Page) scraping service that provides structured JSON data from Google and other search engines, offering features like proxy management, CAPTCHA solving, geo‑targeting, and high‑accuracy scraping.\n\n## What SearchApi Does\n\nSearchApi (searchapi.io) is designed to extract search engine data reliably and at scale. Key capabilities include:\n\n- Real‑time Google SERP scraping with JSON output. [0](https://www.searchapi.io/)\n- Automatic proxy rotation and CAPTCHA solving, mimicking real user behavior. [1](https://github.com/SearchApi)\n- Precise geo‑targeting down to coordinate level. [0](https://www.searchapi.io/)\n- High success rate (99.9%) for search requests. [0](https://www.searchapi.io/)\n- Support for multiple engines (Google, Bing, YouTube, Maps, etc.) via community integrations. [1](https://github.com/SearchApi)\n\n## Example Usage\n\nA typical Google SERP request looks like:\n\n```\ncurl --get https://www.searchapi.io/api/v1/search \\\n  -d engine=\"google\" \\\n  -d q=\"chatgpt\"\n```\n\nThis returns structured JSON including metadata, organic results, knowledge graph, and more. [0](https://www.searchapi.io/)\n\n## Related Ecosystem\n\nSearchApi maintains open‑source tools and integrations such as:\n\n- wreq-ruby (HTTP client with browser fingerprinting)\n- n8n-nodes-searchapi (workflow automation node)\n- Google Maps, Flights, Ads research tools built on top of SearchApi’s data pipelines [1](https://github.com/SearchApi)\n\n## SearchApi vs. Simil",
+    "reference_links": [
+      {
+        "index": 0,
+        "title": "Google Search API for real-time SERP scraping",
+        "link": "https://www.searchapi.io/",
+        "displayed_link": "https://www.searchapi.io/",
+        "source": "www.searchapi.io"
+      },
+      {
+        "index": 1,
+        "title": "SearchApi - GitHub",
+        "link": "https://github.com/SearchApi",
+        "displayed_link": "https://github.com/SearchApi",
+        "source": "GitHub"
+      },
+      {
+        "index": 2,
+        "title": "SerpApi: Google Search API",
+        "link": "https://serpapi.com/",
+        "displayed_link": "https://serpapi.com/",
+        "source": "serpapi.com"
+      }
+    ]
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "APIs and Services | APIs for Google Cloud",
+      "link": "https://cloud.google.com/apis?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-SKWS-PHR-apis&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=24f711cf949214cf92127b397c37210e&gclsrc=3p.ds&msclkid=24f711cf949214cf92127b397c37210e",
+      "source": "Google Cloud",
+      "displayed_link": "https://cloud.google.com",
+      "tracking_link": "https://www.bing.com/aclk?ld=e8HtNYxrU1pwZ23q_4MO7l5DVUCUz3xxlUAU50hmd7UO1bH8FrF6GiU6dmZLuCgxiPrwg27to3ya5n85cu3NJu-MTxkDHtskTE8U_nIHWKdQrb036WJvv2llzQ1purENtIgx4z1IJr09TRwtAbfT-J_C40HxdD95Rfpb2ES311RecZjfLzf837HimHeQ6HFxDBT_-kwS3V73tMiJg-hv7F21aq75A&u=aHR0cHMlM2ElMmYlMmZjbG91ZC5nb29nbGUuY29tJTJmYXBpcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZENsb3VkLVNTLURSLUdDUC0xNzEzNjU4LUdDUC1EUi1OQS1VUy1lbi1CaW5nLVNLV1MtUEhSLWFwaXMlMjZ1dG1fY29udGVudCUzZGMtSHlicmlkJTJiJTI1N0MlMmJTS1dTJTJiLSUyYlBIUiUyYiUyNTdDJTJiVHh0LUdlbmVyaWMlMmJDbG91ZC1BUElzLUdlbmVyYWwlMmJBUElzLTk2NTExMDUxNyUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNmdjbGlkJTNkMjRmNzExY2Y5NDkyMTRjZjkyMTI3YjM5N2MzNzIxMGUlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2QyNGY3MTFjZjk0OTIxNGNmOTIxMjdiMzk3YzM3MjEwZQ&rlid=24f711cf949214cf92127b397c37210e&ntb=1",
+      "snippet": "Browse free and premium APIs, keys, docs, resources for Google Cloud products. Discover and enable 100s of Google Cloud APIs, including VPC, AI, and data APIs.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Try it free",
+            "link": "https://cloud.google.com/ai/generative-ai?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-generative-ai&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=91b48f25d6af1566002ce5d33e0acd81&gclsrc=3p.ds&msclkid=91b48f25d6af1566002ce5d33e0acd81",
+            "snippet": "Get $300 credit for AI agents. Get free usage of AI APIs."
+          },
+          {
+            "title": "Google Cloud learning",
+            "link": "https://cloud.google.com/learn?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-learn&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=5d58ab40b28b1259ee98c1b65a2e4e5d&gclsrc=3p.ds&msclkid=5d58ab40b28b1259ee98c1b65a2e4e5d",
+            "snippet": "Skill up in AI, data, and more. Test your skills and get certified."
+          },
+          {
+            "title": "Prototype with Google AI",
+            "link": "https://aistudio.google.com/welcome?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-welcome&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=5e76614f489c1c34c79a0bb9a0396a94&gclsrc=3p.ds&msclkid=5e76614f489c1c34c79a0bb9a0396a94",
+            "snippet": "Add AI to apps in under 5 mins. Start free with a Gemini API key."
+          },
+          {
+            "title": "$300 free credit",
+            "link": "https://cloud.google.com/gcp?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-gcp&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=7015e94159841c43dae583b7b12102d3&gclsrc=3p.ds&msclkid=7015e94159841c43dae583b7b12102d3",
+            "snippet": "Try Google Cloud free for 90 days. Get free usage of 20+ products."
+          },
+          {
+            "title": "Create a virtual machine",
+            "link": "https://cloud.google.com/products/compute?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-compute&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=36070b88c75a147ba203617e2fff3a48&gclsrc=3p.ds&msclkid=36070b88c75a147ba203617e2fff3a48",
+            "snippet": "Deploy preset or custom VMs. Get one e2-micro VM free per month."
+          },
+          {
+            "title": "Access 150+ products",
+            "link": "https://cloud.google.com/gcp?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-gcp&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=3ddd21e3f7a11a53a2794b151f04de44&gclsrc=3p.ds&msclkid=3ddd21e3f7a11a53a2794b151f04de44",
+            "snippet": "Run, test, and deploy workloads. Start a proof of concept on signup."
+          }
+        ]
+      },
+      "assets": {
+        "extensions": [
+          "Get started in 5-minutes · Get started for free · Detailed documentation · Contact us today"
+        ]
+      },
+      "more_link": "https://cloud.google.com/apis?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-SKWS-PHR-apis&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=24f711cf949214cf92127b397c37210e&gclsrc=3p.ds&msclkid=24f711cf949214cf92127b397c37210e"
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Microsoft Official Site | Azure AI Search | Start Now",
+      "link": "https://azure.microsoft.com/en-us/products/ai-services/ai-search/?ef_id=_k_271caa63d4071f7f92e9c0953ca29d9d_k_&OCID=AIDcmmd7t22w70_SEM__k_271caa63d4071f7f92e9c0953ca29d9d_k_&msclkid=271caa63d4071f7f92e9c0953ca29d9d",
+      "source": "Microsoft",
+      "displayed_link": "https://azure.microsoft.com › Account › Services",
+      "tracking_link": "https://www.bing.com/aclk?ld=e86uMXTQkgveXydokZbZMmqjVUCUyW9urCin9YxR-cMmOttNvy8QSIZpYXPurq9T0_whsetd4V-O2julF9OXuLJwu0-rUP_di6HeqAq5xGLs-6AZUtaxPt_Qy686z2yhKC7vb3Y5ElCu6Vw-m7PDTQEosKqf1w1oHLBweWUzZxq1wbObCQFQkeWvLb8Z7oQui6S7vOJXkb0qpy61wpY2CDZdrsK5I&u=aHR0cHMlM2ElMmYlMmZhenVyZS5taWNyb3NvZnQuY29tJTJmZW4tdXMlMmZwcm9kdWN0cyUyZmFpLXNlcnZpY2VzJTJmYWktc2VhcmNoJTJmJTNmZWZfaWQlM2Rfa18yNzFjYWE2M2Q0MDcxZjdmOTJlOWMwOTUzY2EyOWQ5ZF9rXyUyNk9DSUQlM2RBSURjbW1kN3QyMnc3MF9TRU1fX2tfMjcxY2FhNjNkNDA3MWY3ZjkyZTljMDk1M2NhMjlkOWRfa18lMjZtc2Nsa2lkJTNkMjcxY2FhNjNkNDA3MWY3ZjkyZTljMDk1M2NhMjlkOWQ&rlid=271caa63d4071f7f92e9c0953ca29d9d&ntb=1",
+      "snippet": "Enterprise Scale Search For App Development With Azure AI Search. Fully Managed Search As a Service To Reduce Complexity & Scale Easily.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Azure Virtual Machines",
+            "link": "https://azure.microsoft.com/en-us/services/virtual-machines/?ef_id=_k_827c3a780a89161931f5508ee22c1682_k_&OCID=AIDcmmd7t22w70_SEM__k_827c3a780a89161931f5508ee22c1682_k_&msclkid=827c3a780a89161931f5508ee22c1682",
+            "snippet": "Create Linux and Windows Virtual Machines in Seconds. Start Free!"
+          },
+          {
+            "title": "What is Azure?",
+            "link": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?ef_id=_k_1713db727e8016d58d5db1849625f0ce_k_&OCID=AIDcmmd7t22w70_SEM__k_1713db727e8016d58d5db1849625f0ce_k_&msclkid=1713db727e8016d58d5db1849625f0ce",
+            "snippet": "Learn The Basics About Azure Now. Solve Today's Challenges."
+          }
+        ]
+      },
+      "assets": {
+        "extensions": [
+          "Technical Support Plans · 65+ Free Services · Build Your Next Idea · Try Popular Products Free",
+          "Types: Networking, Developer Tools, Data + Analytics, Cloud Computing, Databases"
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "block_position": "bottom",
+      "title": "Google Cloud API Library | APIs for AI, Data, and More",
+      "link": "https://cloud.google.com/apis?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-SKWS-PHR-apis&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=4f5dde740d1b1503d860b482e5bea1b0&gclsrc=3p.ds&msclkid=4f5dde740d1b1503d860b482e5bea1b0",
+      "source": "Google Cloud",
+      "displayed_link": "https://cloud.google.com",
+      "tracking_link": "https://www.bing.com/aclk?ld=e86SFmR6UXGIKJHtuYU8H_-TVUCUyz_Alw3gd-PP7a7YY0zGqeW4CYD6Tu1p6bO-LrQH4OKEFO55QSBIFmYUU78A6vrvM6e2emKyepRJxo-C-d6y4jHzzJxNUemKIlQr2yy2aLNYYcTNMEPiuN3u1Pxichl4aOIcwf0_ROChqvwPK1A6fjluBfOOU4WuBPXgTPsKR5zTE6CGzLAlbeQr_WaiJlLTM&u=aHR0cHMlM2ElMmYlMmZjbG91ZC5nb29nbGUuY29tJTJmYXBpcyUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZENsb3VkLVNTLURSLUdDUC0xNzEzNjU4LUdDUC1EUi1OQS1VUy1lbi1CaW5nLVNLV1MtUEhSLWFwaXMlMjZ1dG1fY29udGVudCUzZGMtSHlicmlkJTJiJTI1N0MlMmJTS1dTJTJiLSUyYlBIUiUyYiUyNTdDJTJiVHh0LUdlbmVyaWMlMmJDbG91ZC1BUElzLUdlbmVyYWwlMmJBUElzLTk2NTExMDUxNyUyNnV0bV90ZXJtJTNkYXBpJTI1MjBkZXZlbG9wbWVudCUyNmdjbGlkJTNkNGY1ZGRlNzQwZDFiMTUwM2Q4NjBiNDgyZTViZWExYjAlMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2Q0ZjVkZGU3NDBkMWIxNTAzZDg2MGI0ODJlNWJlYTFiMA&rlid=4f5dde740d1b1503d860b482e5bea1b0&ntb=1",
+      "snippet": "Discover and enable 100s of Google Cloud APIs, including VPC, AI, and data APIs. Choose from 100s of Google Cloud and third party APIs for AI, VPC, and more.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Try it free",
+            "link": "https://cloud.google.com/ai/generative-ai?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-generative-ai&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=0372478af92c157b88842d7c118955d2&gclsrc=3p.ds&msclkid=0372478af92c157b88842d7c118955d2"
+          },
+          {
+            "title": "Google Cloud learning",
+            "link": "https://cloud.google.com/learn?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-na-learn&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=2732917ab091193dadd5fb8c58346cf3&gclsrc=3p.ds&msclkid=2732917ab091193dadd5fb8c58346cf3"
+          },
+          {
+            "title": "$300 free credit",
+            "link": "https://cloud.google.com/gcp?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713658-GCP-DR-NA-US-en-Bing-Sitelink-gcp&utm_content=c-Hybrid+%7C+SKWS+-+PHR+%7C+Txt-Generic+Cloud-APIs-General+APIs-965110517&utm_term=api%20development&gclid=048deefda79117d4b76b840b4f34e9f7&gclsrc=3p.ds&msclkid=048deefda79117d4b76b840b4f34e9f7"
+          }
+        ]
+      },
+      "assets": {
+        "extensions": [
+          "Get started in 5-minutes · Get started for free · $300 in free credit · Contact us today"
+        ]
+      }
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Google Search API for real-time SERP scraping",
+      "source": "searchapi.io",
+      "link": "https://www.searchapi.io/",
+      "domain": "www.searchapi.io",
+      "displayed_link": "https://www.searchapi.io",
+      "snippet": "What data does the Google Search API provide? Our Google Search API provides a wealth of data including organic search results, …",
+      "favicon": "https://th.bing.com/th/id/ODF.I_jM-LwRqjYnSVEQfoe3Cg?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+    },
+    {
+      "position": 2,
+      "title": "SerpApi: Google Search API",
+      "source": "SerpApi",
+      "link": "https://serpapi.com/",
+      "domain": "serpapi.com",
+      "displayed_link": "https://serpapi.com",
+      "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for …",
+      "favicon": "https://th.bing.com/th/id/ODF.4Z80JZCThiOGlroFZ4AnNw?w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "searchapi.io",
+      "link": "https://www.bing.com/ck/a?!&&p=1ab7912aaa72ee6b544b201b1ec7fe2f4df8de84b2f3af91cff6618cf33a9d7eJmltdHM9MTc5NDUyODAwMA&ptn=3&ver=2&hsh=4&fclid=24d0062a-d647-673a-20f3-1e3ad72f66a1&u=a1L3NlYXJjaD9xPXNlYXJjaGFwaS5pbyZGT1JNPVFTUkUx&ntb=1"
+    },
+    {
+      "query": "serf api",
+      "link": "https://www.bing.com/ck/a?!&&p=b598970ea23ef1f4b637a38ad5e792cc3437044c1e659303fb6666961c1be65dJmltdHM9MTc5NDUyODAwMA&ptn=3&ver=2&hsh=4&fclid=24d0062a-d647-673a-20f3-1e3ad72f66a1&u=a1L3NlYXJjaD9xPXNlcmYrYXBpJkZPUk09UVNSRTI&ntb=1"
+    },
+    {
+      "query": "search api google",
+      "link": "https://www.bing.com/ck/a?!&&p=8618ad4787345eed88048f95ce4c91e65f3e5203ad9b9ca9a9fe5aa0064d33acJmltdHM9MTc5NDUyODAwMA&ptn=3&ver=2&hsh=4&fclid=24d0062a-d647-673a-20f3-1e3ad72f66a1&u=a1L3NlYXJjaD9xPXNlYXJjaCthcGkrR29vZ2xlJkZPUk09UVNSRTM&ntb=1"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Search The Web With Google Custom Search API In Python",
+      "link": "https://www.youtube.com/watch?v=4YhxXRPKI0c",
+      "video_link": "https://th.bing.com/th/id/OM1.8h7_TubuRUmKHQ_1766960593?pid=1.7",
+      "source": "YouTube",
+      "channel": "Jie Jenn",
+      "is_adult": "false",
+      "views": 23600,
+      "duration": "6:36",
+      "date": "May 30, 2024"
+    },
+    {
+      "position": 2,
+      "title": "How To Setup Google Search API",
+      "link": "https://www.youtube.com/watch?v=BYpNFZWL3jU",
+      "video_link": "https://th.bing.com/th/id/OM1.-mQIIuxI3Srodg_1768337489?pid=1.7",
+      "source": "YouTube",
+      "channel": "Osborne Digital Marketing",
+      "is_adult": "false",
+      "views": 2500,
+      "duration": "1:32",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "position": 3,
+      "title": "API Explained For Beginners 2026 | What Is API And How It Works? | API Tutorial | Simplilearn",
+      "link": "https://www.youtube.com/watch?v=3GJ6jJ5TDv4",
+      "video_link": "https://th.bing.com/th/id/OM.HiECSaULEEEhlg_1786643752?pid=1.7",
+      "source": "YouTube",
+      "channel": "Simplilearn",
+      "is_adult": "false",
+      "views": 6500,
+      "duration": "9:04",
+      "date": "7 months ago"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.bing.com/search?q=searchapi&cc=US&setlang=en&FPIG=384CCB2522F242D0A9AF614D75F9F795&first=3&FORM=PORE",
+    "next_page_token": "eyJmaXJzdCI6MywicGFnZSI6MiwicSI6InNlYXJjaGFwaSJ9",
+    "other_pages": {
+      "2": "https://www.bing.com/search?q=searchapi&cc=US&setlang=en&FPIG=384CCB2522F242D0A9AF614D75F9F795&first=3&FORM=PERE",
+      "3": "https://www.bing.com/search?q=searchapi&cc=US&setlang=en&FPIG=384CCB2522F242D0A9AF614D75F9F795&first=13&FORM=PERE1",
+      "4": "https://www.bing.com/search?q=searchapi&cc=US&setlang=en&FPIG=384CCB2522F242D0A9AF614D75F9F795&first=23&FORM=PERE2"
+    }
+  }
+}
