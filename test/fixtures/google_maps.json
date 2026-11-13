@@ -11,21 +11,21 @@
   "local_results": [
     {
       "position": 1,
-      "ludocid": "15974248320594670574",
-      "place_id": "ChIJeRTSBgALkkYR7vPsXjbur90",
-      "kgmid": "/g/11w20lbqcl",
-      "data_id": "0x46920b0006d21479:0xddafee365eecf3ee",
-      "title": "Heritage Cafe",
-      "address": "Fredrikinkatu 61A, 00100 Helsinki, Finland",
+      "ludocid": "10000000000000000001",
+      "place_id": "EXAMPLE_PLACE_ID_1",
+      "kgmid": "/g/example1",
+      "data_id": "0x0:0x1",
+      "title": "Example Café 1",
+      "address": "Example Street 1, 00100 Helsinki, Finland",
       "city": "Helsinki, Finland",
       "country_code": "FI",
       "timezone": "Europe/Helsinki",
       "rating": 4.7,
       "reviews": 299,
-      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeRTSBgALkkYR7vPsXjbur90&q=coffee+shops+near+Kamppi,+Helsinki&hl=en&gl=RU",
+      "reviews_link": "https://example.com/cafe-1/reviews",
       "gps_coordinates": {
-        "latitude": 60.1679054,
-        "longitude": 24.9322092
+        "latitude": 60.171,
+        "longitude": 24.941000000000003
       },
       "type": "Coffee shop",
       "types": [
@@ -61,28 +61,28 @@
           ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcdkG_JwZ2iCZS6-7aiuCuwu93kT1jQk3z1sQLMHhNMrhaGkSCuU1wYD1Eacal-6ngYKRj0vR-r-z_trVVp4LpCgUm9rSGgv-oJUw1g8kkaLvhibSGMnJMKQ_lu8EatOTNhBOKkgqnFNM-x=w122-h92-k-no"
+      "thumbnail": "https://example.com/thumbnail.jpg"
     },
     {
       "position": 2,
-      "ludocid": "9308731255115280333",
-      "place_id": "ChIJ3aaUztoLkkYRze-4usFBL4E",
-      "kgmid": "/g/11m_j29z8n",
-      "data_id": "0x46920bdace94a6dd:0x812f41c1bab8efcd",
-      "title": "Enchanté Café",
-      "address": "Eerikinkatu 9, 00100 Helsinki, Finland",
+      "ludocid": "10000000000000000002",
+      "place_id": "EXAMPLE_PLACE_ID_2",
+      "kgmid": "/g/example2",
+      "data_id": "0x0:0x2",
+      "title": "Example Café 2",
+      "address": "Example Street 2, 00100 Helsinki, Finland",
       "city": "Helsinki, Finland",
       "country_code": "FI",
       "timezone": "Europe/Helsinki",
-      "phone": "045 78335392",
+      "phone": "+358 00 000 0002",
       "rating": 4.8,
       "reviews": 714,
-      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3aaUztoLkkYRze-4usFBL4E&q=coffee+shops+near+Kamppi,+Helsinki&hl=en&gl=RU",
-      "website": "https://enchante.fi/",
+      "reviews_link": "https://example.com/cafe-2/reviews",
+      "website": "https://example.com/cafe-2",
       "domain": "enchante.fi",
       "gps_coordinates": {
-        "latitude": 60.167100899999994,
-        "longitude": 24.9346804
+        "latitude": 60.172000000000004,
+        "longitude": 24.942
       },
       "type": "Cafe",
       "types": [
@@ -115,28 +115,28 @@
           ]
         }
       ],
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLciUPzi7Y5qmP2knEGHKUT57YGgDEVoG5kniTLD0auqABBvAmpr507hr19TtAHcAXF19JbDBeativvfL-aNvFkWZNdAxSj87mpCLuODLDm-SRx_jhSaoMucXnG3zUWG4353e68-c3RZMRRD=w122-h92-k-no"
+      "thumbnail": "https://example.com/thumbnail.jpg"
     },
     {
       "position": 3,
-      "ludocid": "7298691835943680075",
-      "place_id": "ChIJxXd-NYoLkkYRS3h3_o0pSmU",
-      "kgmid": "/g/11xzn4vbcm",
-      "data_id": "0x46920b8a357e77c5:0x654a298dfe77784b",
-      "title": "Café Noir",
-      "address": "Pohjoisesplanadi 35, 00100 Helsinki, Finland",
+      "ludocid": "10000000000000000003",
+      "place_id": "EXAMPLE_PLACE_ID_3",
+      "kgmid": "/g/example3",
+      "data_id": "0x0:0x3",
+      "title": "Example Café 3",
+      "address": "Example Street 3, 00100 Helsinki, Finland",
       "city": "Helsinki, Finland",
       "country_code": "FI",
       "timezone": "Europe/Helsinki",
-      "phone": "044 9889108",
+      "phone": "+358 00 000 0003",
       "rating": 4.8,
       "reviews": 276,
-      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxXd-NYoLkkYRS3h3_o0pSmU&q=coffee+shops+near+Kamppi,+Helsinki&hl=en&gl=RU",
-      "website": "https://www.cafenoir.io/",
+      "reviews_link": "https://example.com/cafe-3/reviews",
+      "website": "https://example.com/cafe-3",
       "domain": "cafenoir.io",
       "gps_coordinates": {
-        "latitude": 60.167886,
-        "longitude": 24.9449866
+        "latitude": 60.173,
+        "longitude": 24.943
       },
       "type": "Coffee shop",
       "types": [
@@ -153,7 +153,7 @@
         "wednesday": "8 AM–6 PM",
         "thursday": "8 AM–6 PM"
       },
-      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd4tjrjowl8ETKjYaQ_SjSHJDLUjtYreC2Y2REZIfYK-5qzOewXMbbFXi-T4QFWijCqKjuEvHkZ-CaYQRGjJlzPiTFUcQy_3a5NLGJ774fQOSNQkqWUOzmipHXZ8pG4wJ9H4t29Ma2RBQfb=w80-h106-k-no"
+      "thumbnail": "https://example.com/thumbnail.jpg"
     }
   ]
 }
