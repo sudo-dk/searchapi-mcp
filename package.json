@@ -3,6 +3,15 @@
   "version": "0.2.0",
   "description": "Model Context Protocol server for SearchApi.io: live, LLM-sized results from Google, Google Jobs, Shopping, News, Scholar, YouTube and 100+ other engines.",
   "license": "MIT",
+  "author": "DK",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-dk/searchapi-mcp.git"
+  },
+  "homepage": "https://github.com/sudo-dk/searchapi-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/sudo-dk/searchapi-mcp/issues"
+  },
   "type": "module",
   "bin": {
     "searchapi-mcp": "dist/index.js"

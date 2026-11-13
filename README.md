@@ -50,7 +50,7 @@ See [examples/](./examples) for real outputs and prompts to try.
 ## Setup
 
 ```bash
-git clone https://github.com/<you>/searchapi-mcp.git
+git clone https://github.com/sudo-dk/searchapi-mcp.git
 cd searchapi-mcp
 npm install
 npm run build

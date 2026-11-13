@@ -64,7 +64,7 @@ export function createClient({ apiKey, fetch: fetchImpl = fetch, userAgent }: Cl
         headers: {
           // Key goes in a header, never the URL, so it can't leak into logs/errors.
           Authorization: `Bearer ${apiKey}`,
-          "User-Agent": userAgent ?? `searchapi-mcp/${VERSION}`,
+          "User-Agent": userAgent ?? `searchapi-mcp/${VERSION} (+https://github.com/sudo-dk/searchapi-mcp)`,
         },
       });
     } catch (err) {
